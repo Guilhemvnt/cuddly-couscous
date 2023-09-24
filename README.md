@@ -53,7 +53,15 @@ IP time to live Attacks :
 =======================
 
 TCP Handshake Abnormalites :
-  - Excessive SYN Flags = to nmap scanning 
+  - Excessive SYN Flags = to nmap scanning
+======================
+
+TCP Connection Hijacking
+  For more advanced actors, they might employ TCP connection hijacking. In this case the attacker will actively monitor the target connection they want to hijack.
+  The attacker will then conduct sequence number prediction in order to inject their malicious packets in the correct order. During this injection they will spoof the source address to be the same as our affected machine.
+  The attacker will need to block ACKs from reaching the affected machine in order to continue the hijacking. They do this either through delaying or blocking the ACK packets. As such, this attack is very commonly employed with ARP poisoning, and we might notice the following in our traffic analysis.
+Right click on the infected ACK packets and select "Follow TCP stream"
+===================
     
 
 
