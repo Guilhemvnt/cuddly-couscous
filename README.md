@@ -1,6 +1,3 @@
-Certainly! Here's a README file with the provided text:
-
-
 # cuddly-couscous
 
 ## Discover Wireshark Software for Network Traffic Analysis
