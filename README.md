@@ -1,68 +1,75 @@
+Certainly! Here's a README file with the provided text:
+
+```markdown
 # cuddly-couscous
 
-Discover Wireshark sofware for Network Traffic Analysis :
-  wget -O file.zip 'https://academy.hackthebox.com/storage/resources/pcap_files.zip' && mkdir tempdir && unzip file.zip -d tempdir && mkdir -p pcaps && mv tempdir/Intermediate_Network_Traffic_Analysis/* pcaps/ && rm -r tempdir file.zip
-  I notice right away that an excessive amount of deauthentication frames were sent to one of our client devices.
-  Adresse MAC = F8:14:FE:4D:E6:F1
+## Discover Wireshark Software for Network Traffic Analysis
 
-For Filtering Deauthentication Frames in WireShark :
+To get started with network traffic analysis using Wireshark, follow these steps:
 
-  (wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 0) && (wlan.fc.type_subtype == 12)
-    
-  (wlan.bssid == F8:14:FE:4D:E6:F1) --> the attacker on the wlan device
+1. Download the necessary pcap files:
 
-  (wlan.fc.type == 0) && (wlan.fc.type_subtype == 12) -> 0 to 12 is a default code use by "aireplay-ng" and "mdk4" , which are common attack tools for Deauthentication
-  This code is found on the reason code of the request
+   ```bash
+   wget -O file.zip 'https://academy.hackthebox.com/storage/resources/pcap_files.zip' && mkdir tempdir && unzip file.zip -d tempdir && mkdir -p pcaps && mv tempdir/Intermediate_Network_Traffic_Analysis/* pcaps/ && rm -r tempdir file.zip
+   ```
 
-======================================
-Finding Decoy Scanning Attempts :
- 
-  - look at Info-> Fragmented IP protocol if there is multiple time this it must be an attack
-  - Check the TCP traffic from the legitimate source address
-  - Have our IDS/IPS/Firewall act as the destination host would - In the sense that reconstructing the packets gives     a clear indication of malicious activity.
+2. After obtaining the pcap files, proceed with the analysis.
 
-  -Watch for connections started by one host, and taken over by another - The attacker after all has to reveal their    true source address in order to see that a port is open. This is strange behavior and we can define our rules to     prevent it.
+## Filtering Deauthentication Frames in Wireshark
 
-Finding Random Source Attacks :
+To filter deauthentication frames in Wireshark, you can use the following display filter:
 
-    - watch for many hosts will ping one host which does not exist, and the pinged host will ping back all others
-      and get no reply.
-    - Single Port Utilization from random hosts
-    - Incremental Base Port with a lack of randomization (ex : list of 1 to 50) check Info and the first number(base port -> connection port)
-    - Identical Length Fields (check Length)
+```bash
+(wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 0) && (wlan.fc.type_subtype == 12)
+```
 
-SMURF attacks :
-  - The attacker will send n ICMP request to live hosts with a spoofed address of the victim host
-  - The live host will respond to the legitimate host with an ICMP reply
-  - This mau cause ressource exhaustion on the victim host (spamming is not good for your connection)
-  - check ICMP protocol, if you notice many different hosts pinging our single host, and in this case it               represents the basic nature of SMURF attacks.
+- `(wlan.bssid == F8:14:FE:4D:E6:F1)` identifies the attacker's WLAN device.
+- `(wlan.fc.type == 0) && (wlan.fc.type_subtype == 12)` filters frames with type 0 and subtype 12, commonly used by attack tools.
 
-Finding LAND Attacks :
-  - LAND attacks use an attacker for spoofing the source IP and be the same as the destination. It's a DOS attacks
-    which work throught sheer volume of traffic and port re-use.
+## Finding Decoy Scanning Attempts
 
-============================
+When analyzing network traffic, be vigilant for the following signs of decoy scanning attempts:
 
-IP time to live Attacks : 
-    - In a "TTL Expiry Attack," an attacker crafts IP packets with intentionally low TTL values. These packets traverse the network, with TTL values decrementing at each hop. When TTL reaches zero, routers discard the packet and send an ICMP Time Exceeded message back to the source. Attackers collect these messages to map a network's topology, but this can trigger security alerts.
-  - Finding Irregularities in IP TTL (time to live)
-      - most of the time attackers will use this for port scanning.
-      - if there is a syn-ack return message (mean the synchronisation is done), the attacker might have                   successfully evaded one of our firewall controls.
-      - Check the suspects packets to find TTL, go to Internet Protocol and search "Time to live" a low time to live mean there is a risk of an attack. You can prevent these forms of IP packet crafting attacks by implement a constrol wich discard packets with low TTL (with FireWall rules that limit incoming ICMP traffic from external source)
+- Look for multiple instances of fragmented IP protocol in the Info field, as this could indicate an attack.
+- Check TCP traffic from legitimate source addresses.
+- Consider configuring your IDS/IPS/Firewall to act as the destination host to detect malicious activity.
+- Watch for connections initiated by one host and taken over by another, as attackers may reveal their true source address.
 
-=======================
+## Identifying Random Source Attacks
 
-TCP Handshake Abnormalites :
-  - Excessive SYN Flags = to nmap scanning
-======================
+Detecting random source attacks requires attention to several factors:
 
-TCP Connection Hijacking
-  For more advanced actors, they might employ TCP connection hijacking. In this case the attacker will actively monitor the target connection they want to hijack.
-  The attacker will then conduct sequence number prediction in order to inject their malicious packets in the correct order. During this injection they will spoof the source address to be the same as our affected machine.
-  The attacker will need to block ACKs from reaching the affected machine in order to continue the hijacking. They do this either through delaying or blocking the ACK packets. As such, this attack is very commonly employed with ARP poisoning, and we might notice the following in our traffic analysis.
-Right click on the infected ACK packets and select "Follow TCP stream"
-===================
-    
+- Monitor for multiple hosts pinging a non-existent host that responds to all pings.
+- Keep an eye on single-port utilization from random hosts.
+- Look for incremental base port numbers without randomization, especially in the Info field.
+- Examine packets for identical length fields.
 
+## Detecting SMURF Attacks
 
+SMURF attacks involve sending ICMP requests to live hosts with a spoofed victim host address. To detect SMURF attacks:
 
+- Examine ICMP protocol traffic.
+- If you observe many different hosts pinging a single host, it may indicate a SMURF attack.
+
+## Finding LAND Attacks
+
+LAND attacks involve an attacker spoofing their source IP to match the destination. These attacks rely on sheer traffic volume and port re-use. Be cautious of this type of DOS attack.
+
+## IP Time to Live Attacks
+
+In IP time to live attacks, attackers craft packets with intentionally low TTL values to map a network's topology. Look for irregularities in IP TTL values, especially during port scanning attempts. A low TTL could indicate a risk of an attack. Implement firewall rules to discard packets with low TTL to mitigate such attacks.
+
+## TCP Handshake Abnormalities
+
+Excessive SYN flags may indicate nmap scanning or other suspicious activity during the TCP handshake.
+
+## TCP Connection Hijacking
+
+Advanced attackers may attempt TCP connection hijacking. This involves monitoring a target connection, conducting sequence number prediction, and spoofing source addresses. Attackers may block ACK packets to continue hijacking. Be vigilant for signs of ARP poisoning in your traffic analysis.
+
+For more detailed instructions and analysis techniques, refer to the respective sections in this repository.
+
+**Disclaimer:** This repository is for educational purposes only. Use this information responsibly and within legal boundaries.
+```
+
+Feel free to copy and paste this README text into your GitHub repository to document the provided network traffic analysis instructions.
