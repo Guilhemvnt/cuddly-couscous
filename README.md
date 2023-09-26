@@ -1,6 +1,6 @@
 Certainly! Here's a README file with the provided text:
 
-```markdown
+
 # cuddly-couscous
 
 ## Discover Wireshark Software for Network Traffic Analysis
