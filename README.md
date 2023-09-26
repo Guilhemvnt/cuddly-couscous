@@ -67,6 +67,3 @@ Advanced attackers may attempt TCP connection hijacking. This involves monitorin
 For more detailed instructions and analysis techniques, refer to the respective sections in this repository.
 
 **Disclaimer:** This repository is for educational purposes only. Use this information responsibly and within legal boundaries.
-```
-
-Feel free to copy and paste this README text into your GitHub repository to document the provided network traffic analysis instructions.
