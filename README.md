@@ -66,4 +66,8 @@ Advanced attackers may attempt TCP connection hijacking. This involves monitorin
 
 For more detailed instructions and analysis techniques, refer to the respective sections in this repository.
 
+## Strange HTTP Headers
+   Discorver Strange HTTP Headers. 
+
+
 **Disclaimer:** This repository is for educational purposes only. Use this information responsibly and within legal boundaries.
