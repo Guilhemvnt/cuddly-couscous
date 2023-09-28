@@ -67,7 +67,23 @@ Advanced attackers may attempt TCP connection hijacking. This involves monitorin
 For more detailed instructions and analysis techniques, refer to the respective sections in this repository.
 
 ## Strange HTTP Headers
-   Discorver Strange HTTP Headers. 
+   Discorver Strange HTTP Headers -> check Wierd Host, Unsual HTTP Verbs, Changed User Agents
+    - display HTTP headers with : http
+
+   Finding Strange Host Heardes : 
+      - First we exclude entries that use real headers : http.request and (!(http.host == "ip or domain name"))
+   Check HyperText Transfer Protocol :
+      - If we spot 127.0.0.1 as Host (request from localhost), or admin. This should be flag cause it's can be an attemp for          gain levels of access. It's can prove the use of proxy tools like Burp.
+         For counter this we might check if our web server is up to date.
+
+   Analysing Code 400s and Request Smuggling :
+         - check responce code in 400s range : http.responce.code == 400, check precisely one = http.responce.code === 400)
+
+
+
+      
+
+      
 
 
 **Disclaimer:** This repository is for educational purposes only. Use this information responsibly and within legal boundaries.
