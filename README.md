@@ -1,6 +1,6 @@
 # cuddly-couscous
 
-## Discover Wireshark Software for Network Traffic Analysis
+## Discover Network Traffic Analysis
 
 ## Finding Decoy Scanning Attempts
 
