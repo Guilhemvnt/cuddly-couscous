@@ -2,27 +2,6 @@
 
 ## Discover Wireshark Software for Network Traffic Analysis
 
-To get started with network traffic analysis using Wireshark, follow these steps:
-
-1. Download the necessary pcap files:
-
-   ```bash
-   wget -O file.zip 'https://academy.hackthebox.com/storage/resources/pcap_files.zip' && mkdir tempdir && unzip file.zip -d tempdir && mkdir -p pcaps && mv tempdir/Intermediate_Network_Traffic_Analysis/* pcaps/ && rm -r tempdir file.zip
-   ```
-
-2. After obtaining the pcap files, proceed with the analysis.
-
-## Filtering Deauthentication Frames in Wireshark
-
-To filter deauthentication frames in Wireshark, you can use the following display filter:
-
-```bash
-(wlan.bssid == F8:14:FE:4D:E6:F1) and (wlan.fc.type == 0) && (wlan.fc.type_subtype == 12)
-```
-
-- `(wlan.bssid == F8:14:FE:4D:E6:F1)` identifies the attacker's WLAN device.
-- `(wlan.fc.type == 0) && (wlan.fc.type_subtype == 12)` filters frames with type 0 and subtype 12, commonly used by attack tools.
-
 ## Finding Decoy Scanning Attempts
 
 When analyzing network traffic, be vigilant for the following signs of decoy scanning attempts:
