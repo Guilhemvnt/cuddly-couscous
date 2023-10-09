@@ -2,6 +2,9 @@
 
 ## Discover Network Traffic Analysis
 
+## Finding Deauthentication Attacks
+
+
 ## Finding Decoy Scanning Attempts
 
 When analyzing network traffic, be vigilant for the following signs of decoy scanning attempts:
