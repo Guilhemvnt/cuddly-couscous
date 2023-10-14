@@ -20,7 +20,7 @@ const char *Sniffer::getTimestamp() const {
     char *timeStr = new char[100];
 
     if (timeStr != nullptr) {
-        strftime(timeStr, 100, "%Y-%m-%d %H:%M:%S", std::localtime(&timestamp));
+        strftime(timeStr, 100, "%Y-%m-%d/%H:%M:%S", std::localtime(&timestamp));
     } else {
         return "Allocation failed";
     }
