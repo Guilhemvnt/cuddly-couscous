@@ -20,7 +20,7 @@ const char *Sniffer::getTimestamp() const {
     char *timeStr = new char[100];
 
     if (timeStr != nullptr) {
-        strftime(timeStr, 100, "%Y-%m-%d %H:%M:%S", std::localtime(&timestamp));
+        strftime(timeStr, 100, "%Y-%m-%d/%H:%M:%S", std::localtime(&timestamp));
     } else {
         return "Allocation failed";
     }
@@ -81,4 +81,12 @@ void Sniffer::setDevice(std::string device) {
 std::vector<std::string> Sniffer::getDevices() const
 {
     return this->devices;
+}
+
+void Sniffer::displayDevices()
+{
+    std::cout << "Devices: " << std::endl;
+    for (auto device : this->devices) {
+        std::cout << device << std::endl;
+    }
 }

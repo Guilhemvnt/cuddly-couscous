@@ -40,5 +40,6 @@
 
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;
+            void displayDevices();
     };
 #endif /* !PACKETHANDLER_HPP_ */
