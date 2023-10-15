@@ -8,5 +8,4 @@
 #ifndef MAIN_HPP_
 #define MAIN_HPP_
     #include "startingUp.hpp"
-    #include "parser.hpp"
 #endif /* !MAIN_HPP_ */

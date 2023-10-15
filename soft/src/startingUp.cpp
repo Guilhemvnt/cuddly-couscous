@@ -6,12 +6,10 @@
 */
 
 #include "startingUp.hpp"
-#include <csignal>
-#include <memory>
 
-// Define a signal handler function
 volatile bool shouldExit = false;
 Sniffer sniffer;
+PacketParser parser;
 
 void signalHandler(int signum) {
     if (signum == SIGINT) {
@@ -21,7 +19,6 @@ void signalHandler(int signum) {
 }
 
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
-    // Create a stringstream to construct the log line
     std::ostringstream logLine;
 
     logLine << "Timestamp: " << sniffer.getTimestamp() << " ";
@@ -48,18 +45,16 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
         }
     }
 
-    // Open the output file
     std::ofstream outputFile("logs/packet_logs.txt", std::ios::app | std::ios::out);
     if (!outputFile.is_open()) {
         std::cerr << "Failed to open the output file." << std::endl;
         return;
     }
 
-    // Write the log line to the file
     outputFile << std::endl << logLine.str();
+    parser.parsePacket(logLine.str());
     outputFile.close();
 }
-
 
 int startingUp(char *device_name)
 {
@@ -71,9 +66,8 @@ int startingUp(char *device_name)
     signal(SIGINT, signalHandler);
 
     if (handle == nullptr) {
-        for (auto &device : sniffer.getDevices()) {
-            std::cout << "Device " << device << std::endl;
-        }
+        sniffer.displayDevices();
+        parser.displayPackets();
         return 1;
     }
 

@@ -15,9 +15,9 @@ public:
     void parse(const std::string&);
 
     void addPacket(std::map<std::string, std::string> packet);
-    std::vector<std::map<std::string, std::string>> get_packets() const;
-    void parse_packet(const std::string&);
-    void display_packets();
+    std::vector<std::map<std::string, std::string>> getPackets() const;
+    void parsePacket(const std::string&);
+    void displayPackets();
 
 private:
     std::vector<std::map<std::string, std::string>> packets;

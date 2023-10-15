@@ -22,7 +22,7 @@ int main(int argc, char **argv) {
     }
     if (isFile) {
         parser.parse(file);
-        parser.display_packets();
+        parser.displayPackets();
     }
     else
 	    startingUp(argv[1]);

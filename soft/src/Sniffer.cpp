@@ -82,3 +82,11 @@ std::vector<std::string> Sniffer::getDevices() const
 {
     return this->devices;
 }
+
+void Sniffer::displayDevices()
+{
+    std::cout << "Devices: " << std::endl;
+    for (auto device : this->devices) {
+        std::cout << device << std::endl;
+    }
+}

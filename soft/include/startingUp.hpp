@@ -13,6 +13,9 @@
     #include <pcap.h>
 
     #include "Sniffer.hpp"
+    #include <csignal>
+    #include <memory>
+    #include "PacketParser.hpp"
 
     int startingUp(char *device_name);
 
