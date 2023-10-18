@@ -29,6 +29,12 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     logLine << "Destination MAC: " << sniffer.getMac(ethHeader, 1) << " ";
     sniffer.setDevice(sniffer.getMac(ethHeader, 0));
 
+    uint16_t frameControl = *(reinterpret_cast<const uint16_t*>(packetData + 22));
+    if ((frameControl & 0b0000000011111100) >> 2 == 0xC) {
+        uint16_t reasonCode = *(reinterpret_cast<const uint16_t*>(packetData + 26));
+        logLine << "Reason Code: " << reasonCode << " ";
+    }
+
     if (ntohs(ethHeader->h_proto) == ETHERTYPE_IP) {
         struct ip *ipHeader = (struct ip *)(packetData + sizeof(struct ethhdr));
         logLine << "Source IP: " << sniffer.getIp(ipHeader, 0) << " ";
@@ -38,6 +44,10 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
             struct tcphdr *tcpHeader = (struct tcphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
             logLine << "Source Port (TCP): " << sniffer.getPortTCP(tcpHeader, 0) << " ";
             logLine << "Destination Port (TCP): " << sniffer.getPortTCP(tcpHeader, 1) << " ";
+
+            if (tcpHeader->rst && !(tcpHeader->syn) && !(tcpHeader->fin)) {
+                logLine << "RST Flag: " << tcpHeader->rst << " ";
+            }
         } else if (ipHeader->ip_p == IPPROTO_UDP) {
             struct udphdr *udpHeader = (struct udphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
             logLine << "Source Port (UDP): " << sniffer.getPortUDP(udpHeader, 0) << " ";
@@ -67,7 +77,7 @@ int startingUp(char *device_name)
 
     if (handle == nullptr) {
         sniffer.displayDevices();
-        parser.displayPackets();
+        //parser.displayPackets();
         return 1;
     }
 
@@ -76,6 +86,7 @@ int startingUp(char *device_name)
             std::cout << "Error in pcap_dispatch" << std::endl;
             break;
         }
+
     }
     pcap_close(handle);
 }

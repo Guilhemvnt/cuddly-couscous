@@ -1,4 +1,5 @@
 .o
 ./cuddly-couscous
-.txt
+logs
 ../.vscode
+./
