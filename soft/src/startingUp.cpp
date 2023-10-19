@@ -29,18 +29,15 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     logLine << "Destination MAC: " << sniffer.getMac(ethHeader, 1) << " ";
     sniffer.setDevice(sniffer.getMac(ethHeader, 0));
 
-    uint16_t frameControl = *(reinterpret_cast<const uint16_t*>(packetData + 22));
-    if ((frameControl & 0b0000000011111100) >> 2 == 0xC) {
-        uint16_t reasonCode = *(reinterpret_cast<const uint16_t*>(packetData + 26));
-        logLine << "Reason Code: " << reasonCode << " ";
-    }
-
     if (ntohs(ethHeader->h_proto) == ETHERTYPE_IP) {
         struct ip *ipHeader = (struct ip *)(packetData + sizeof(struct ethhdr));
         logLine << "Source IP: " << sniffer.getIp(ipHeader, 0) << " ";
         logLine << "Destination IP: " << sniffer.getIp(ipHeader, 1) << " ";
 
-        if (ipHeader->ip_p == IPPROTO_TCP) {
+        if (ipHeader->ip_p == IPPROTO_ICMP) {
+            struct icmphdr *icmpHeader = (struct icmphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
+            logLine << "ICMP Type: " << sniffer.getIcmpType(icmpHeader) << " ";
+        } else if (ipHeader->ip_p == IPPROTO_TCP) {
             struct tcphdr *tcpHeader = (struct tcphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
             logLine << "Source Port (TCP): " << sniffer.getPortTCP(tcpHeader, 0) << " ";
             logLine << "Destination Port (TCP): " << sniffer.getPortTCP(tcpHeader, 1) << " ";
@@ -65,6 +62,7 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     parser.parsePacket(logLine.str());
     outputFile.close();
 }
+
 
 int startingUp(char *device_name)
 {

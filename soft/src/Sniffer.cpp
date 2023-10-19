@@ -90,3 +90,11 @@ void Sniffer::displayDevices()
         std::cout << device << std::endl;
     }
 }
+
+std::string Sniffer::getIcmpType(struct icmphdr *icmpHeader) const 
+{
+    std::cout << icmpHeader->type << std::endl;
+    std::cout << icmpHeader->code << std::endl;
+    std::cout << icmpHeader->checksum << std::endl;
+    return (std::to_string(icmpHeader->type));
+}

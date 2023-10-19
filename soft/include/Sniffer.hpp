@@ -21,6 +21,8 @@
     #include <netinet/tcp.h>
     #include <netinet/udp.h>
     #include <arpa/inet.h>
+    #include <netinet/ip_icmp.h>
+
 
     class Sniffer
     {
@@ -37,6 +39,7 @@
             char *getIp(struct ip *ipHeader, int dest) const;
             std::string getPortTCP(struct tcphdr *tcpHeader, int dest) const;
             std::string getPortUDP(struct udphdr *udpHeader, int dest) const;
+            std::string getIcmpType(struct icmphdr *icmpHeader) const;
 
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;

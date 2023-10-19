@@ -11,7 +11,7 @@ CXXFLAGS     += -std=c++17
 CXXFLAGS     +=
 
 LDFLAGS      =
-LDLIBS       = -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lpcap
+LDLIBS       = -lpcap
 
 OBJECTS      := $(SRC:%.cpp=%.o)
 
