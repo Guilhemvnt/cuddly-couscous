@@ -1,24 +1,24 @@
 /*
+
 ** cuddly-couscous
 ** File description:
-**  DeauthFrames
+** LAND
 */
 
-#ifndef DEAUTHFRAMES_HPP_
-#define DEAUTHFRAMES_HPP_
-
+#ifndef LAND_HPP_
+#define LAND_HPP_
     #include "IAttacks.hpp"
-
-    class DeauthFrames : public virtual IAttacks {
-        private:
+    class LAND {
         protected:
+        private:
         public:
-            DeauthFrames(void);
-            ~DeauthFrames(void);
+            LAND();
+            ~LAND();
 
             void addPacket(std::map<std::string, std::string>);
             std::vector<std::map<std::string, std::string>> getPackets(void);
             void displayPackets(void);
             void analysePackets(void);
     };
-#endif /* !DEAUTHFRAMES_HPP_ */
+
+#endif /* !LAND_HPP_ */

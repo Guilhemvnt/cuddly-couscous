@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** packetHandler
@@ -91,10 +90,7 @@ void Sniffer::displayDevices()
     }
 }
 
-std::string Sniffer::getIcmpType(struct icmphdr *icmpHeader) const 
+std::string Sniffer::getIcmpType(struct icmphdr *icmpHeader) const
 {
-    std::cout << icmpHeader->type << std::endl;
-    std::cout << icmpHeader->code << std::endl;
-    std::cout << icmpHeader->checksum << std::endl;
     return (std::to_string(icmpHeader->type));
 }

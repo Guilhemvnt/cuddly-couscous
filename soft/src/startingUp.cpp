@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** startingUp
@@ -62,7 +61,6 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     parser.parsePacket(logLine.str());
     outputFile.close();
 }
-
 
 int startingUp(char *device_name)
 {

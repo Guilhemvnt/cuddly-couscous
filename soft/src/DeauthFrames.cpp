@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** DeauthFrames
@@ -15,19 +14,18 @@ DeauthFrames::~DeauthFrames()
 {
 }
 
-void DeauthFrames::parse(const std::string&)
+void DeauthFrames::addPacket(std::map<std::string, std::string>)
 {
 }
 
-void DeauthFrames::addPacket(std::map<std::string, std::string> packet)
+std::vector<std::map<std::string, std::string>> DeauthFrames::getPackets(void)
 {
 }
 
-void parPacket(const std::string&)
+void DeauthFrames::displayPackets(void)
 {
 }
 
-void displayPackets()
+void DeauthFrames::analysePackets(void)
 {
 }
-

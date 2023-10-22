@@ -4,6 +4,7 @@
 
 ## Finding Deauthentication Attacks
 
+## ARP Spoofing & Abnormality Detection
 
 ## Finding Decoy Scanning Attempts
 
@@ -60,12 +61,5 @@ For more detailed instructions and analysis techniques, refer to the respective 
 
    Analysing Code 400s and Request Smuggling :
          - check responce code in 400s range : http.responce.code == 400, check precisely one = http.responce.code === 400)
-
-
-
-      
-
-      
-
 
 **Disclaimer:** This repository is for educational purposes only. Use this information responsibly and within legal boundaries.

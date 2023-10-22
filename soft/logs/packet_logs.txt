@@ -1,966 +1,157 @@
 
-Timestamp: 2023-10-19/09:14:58 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:14:58 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:14:58 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:14:58 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:14:58 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:14:58 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:09 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 54497 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:09 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 21539 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:09 Length: 99 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 21539 
-Timestamp: 2023-10-19/09:15:09 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 54497 
-Timestamp: 2023-10-19/09:15:13 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 22701 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:13 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 65518 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:13 Length: 85 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 26593 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:13 Length: 85 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 26090 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:13 Length: 143 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 65518 
-Timestamp: 2023-10-19/09:15:13 Length: 102 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 22701 
-Timestamp: 2023-10-19/09:15:13 Length: 130 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 26593 
-Timestamp: 2023-10-19/09:15:13 Length: 171 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 26090 
-Timestamp: 2023-10-19/09:15:13 Length: 199 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 
-Timestamp: 2023-10-19/09:15:20 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 60652 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:20 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 60652 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:20 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 60656 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:20 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 60656 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:20 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:20 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 35896 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:20 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 35896 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:20 Length: 80 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 24948 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:20 Length: 80 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 4311 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:20 Length: 96 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 24948 
-Timestamp: 2023-10-19/09:15:20 Length: 137 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 4311 
-Timestamp: 2023-10-19/09:15:21 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 60664 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:21 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 60664 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:21 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 60670 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:21 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 60670 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:21 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:21 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 35908 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:21 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 35908 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:26 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 60988 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:26 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 60988 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:26 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 32772 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:26 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 32772 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:26 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:26 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 38166 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:26 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 38166 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:30 Length: 77 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 4827 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 77 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 48796 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 24565 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 41029 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 93 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 4827 
-Timestamp: 2023-10-19/09:15:30 Length: 134 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 48796 
-Timestamp: 2023-10-19/09:15:30 Length: 132 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 41029 
-Timestamp: 2023-10-19/09:15:30 Length: 91 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 24565 
-Timestamp: 2023-10-19/09:15:30 Length: 78 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 7132 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 78 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 22907 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 135 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 22907 
-Timestamp: 2023-10-19/09:15:30 Length: 254 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 7132 
-Timestamp: 2023-10-19/09:15:30 Length: 78 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 42062 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 78 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 40546 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 198 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 42062 
-Timestamp: 2023-10-19/09:15:30 Length: 152 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 40546 
-Timestamp: 2023-10-19/09:15:30 Length: 180 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 
-Timestamp: 2023-10-19/09:15:30 Length: 73 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 35096 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 73 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 43648 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 89 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 35096 
-Timestamp: 2023-10-19/09:15:30 Length: 123 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 43648 
-Timestamp: 2023-10-19/09:15:30 Length: 85 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36516 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 85 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 25713 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 130 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36516 
-Timestamp: 2023-10-19/09:15:30 Length: 171 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 25713 
-Timestamp: 2023-10-19/09:15:30 Length: 199 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 
-Timestamp: 2023-10-19/09:15:30 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 31306 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 25751 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:30 Length: 112 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 31306 
-Timestamp: 2023-10-19/09:15:30 Length: 146 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 25751 
-Timestamp: 2023-10-19/09:15:30 Length: 174 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 
-Timestamp: 2023-10-19/09:15:31 Length: 80 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 24752 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:31 Length: 80 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 45861 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:31 Length: 96 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 24752 
-Timestamp: 2023-10-19/09:15:31 Length: 105 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 45861 
-Timestamp: 2023-10-19/09:15:32 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 32774 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:32 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 32774 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:32 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 32780 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:32 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 32780 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:32 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:32 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 38174 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:32 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 38174 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:33 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 32782 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:33 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 32782 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:33 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 32798 Destination Port (TCP): 3000 
-Timestamp: 2023-10-19/09:15:33 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 3000 Destination Port (TCP): 32798 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:33 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:33 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 38182 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:33 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 38182 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 732 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 58800 Destination Port (TCP): 8081 
-Timestamp: 2023-10-19/09:15:37 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 8081 Destination Port (TCP): 58800 RST Flag: 1 
-Timestamp: 2023-10-19/09:15:37 Length: 3074 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 621 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 631 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 633 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 643 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1143 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 768 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 768 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2253 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2771 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1767 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2216 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 955 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1854 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 672 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2497 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1825 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1497 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1440 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 77 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 52817 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 77 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 32244 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 93 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 52817 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2717 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1903 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1831 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2125 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2276 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1682 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1787 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 766 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 1707 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 2964 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 134 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 32244 
-Timestamp: 2023-10-19/09:15:37 Length: 162 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 DestRST Flag: 1 ination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4127 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 536 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 6041 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 646 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 691 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12898 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:37 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12394 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 12669 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 3503 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 609 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 890 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 668 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:38 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 28930 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 15563 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 677 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 5441 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 5441 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 91 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 11643 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:39 Length: 91 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 42698 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:39 Length: 359 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 148 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 42698 
-Timestamp: 2023-10-19/09:15:39 Length: 299 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 11643 
-Timestamp: 2023-10-19/09:15:39 Length: 644 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 4182 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 6410 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:42 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 53618 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:42 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 53618 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:15:42 Length: 146 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 53618 
-Timestamp: 2023-10-19/09:15:42 Length: 97 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 53618 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:15:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:59 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:59 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:59 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:15:59 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:07 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:25 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 49778 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:38 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 49778 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:38 Length: 223 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 49778 
-Timestamp: 2023-10-19/09:16:38 Length: 267 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 49778 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:51 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 47753 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:51 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 47753 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:51 Length: 172 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 47753 
-Timestamp: 2023-10-19/09:16:51 Length: 213 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 47753 
-Timestamp: 2023-10-19/09:16:52 Length: 106 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34241 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:52 Length: 106 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34241 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:52 Length: 122 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34241 
-Timestamp: 2023-10-19/09:16:52 Length: 188 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34241 
-Timestamp: 2023-10-19/09:16:52 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 55210 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:52 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 55210 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:52 Length: 283 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 55210 
-Timestamp: 2023-10-19/09:16:52 Length: 267 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 55210 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:53 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:16:55 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 46539 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:55 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 46539 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:55 Length: 283 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 46539 
-Timestamp: 2023-10-19/09:16:55 Length: 267 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 46539 
-Timestamp: 2023-10-19/09:16:58 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 56831 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:58 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 56831 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:16:58 Length: 223 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 56831 
-Timestamp: 2023-10-19/09:16:58 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 56831 
-Timestamp: 2023-10-19/09:16:58 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:58 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:58 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:58 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:58 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:16:58 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:00 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34973 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:00 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34973 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:00 Length: 284 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34973 
-Timestamp: 2023-10-19/09:17:00 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34973 
-Timestamp: 2023-10-19/09:17:02 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 41484 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:02 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 41484 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:02 Length: 284 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 41484 
-Timestamp: 2023-10-19/09:17:02 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 41484 
-Timestamp: 2023-10-19/09:17:07 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 44346 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:07 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 44346 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:07 Length: 206 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 44346 
-Timestamp: 2023-10-19/09:17:07 Length: 255 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 44346 
-Timestamp: 2023-10-19/09:17:08 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 38901 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:08 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 38901 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:08 Length: 271 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 38901 
-Timestamp: 2023-10-19/09:17:08 Length: 255 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 38901 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:10 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:26 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 33332 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:26 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 33332 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:26 Length: 284 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 33332 
-Timestamp: 2023-10-19/09:17:26 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 33332 
-Timestamp: 2023-10-19/09:17:29 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 21008 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:29 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 60202 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:17:29 Length: 99 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 60202 
-Timestamp: 2023-10-19/09:17:29 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 21008 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:38 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:40 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 12345 Destination Port (TCP): 80 RST Flag: 1 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:55 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:17:58 Length: 130 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:17:59 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 34655 Destination Port (UDP): 34655 
-Timestamp: 2023-10-19/09:18:01 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 35912 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:01 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 35912 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:01 Length: 224 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 35912 
-Timestamp: 2023-10-19/09:18:01 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 35912 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:08 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:09 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:11 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 57526 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:11 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 57526 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:11 Length: 224 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 57526 
-Timestamp: 2023-10-19/09:18:11 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 57526 
-Timestamp: 2023-10-19/09:18:17 Length: 54 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (TCP): 12345 Destination Port (TCP): 8080 RST Flag: 1 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:23 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 37143 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:24 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 37143 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:24 Length: 271 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 37143 
-Timestamp: 2023-10-19/09:18:24 Length: 339 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 37143 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:24 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:39 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:40 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:44 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 47669 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:44 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 47669 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/09:18:44 Length: 97 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 47669 
-Timestamp: 2023-10-19/09:18:44 Length: 165 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 47669 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/09:18:54 Length: 86 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 
-Timestamp: 2023-10-19/14:20:47 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36692 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:20:47 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36692 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:20:47 Length: 223 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36692 
-Timestamp: 2023-10-19/14:20:47 Length: 268 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36692 
-Timestamp: 2023-10-19/14:21:06 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:06 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:06 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:06 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:06 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:06 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:21:07 Length: 64 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 54614 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:07 Length: 64 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 28701 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:07 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36112 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:07 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 35673 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:07 Length: 132 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 28701 
-Timestamp: 2023-10-19/14:21:07 Length: 128 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 54614 
-Timestamp: 2023-10-19/14:21:07 Length: 179 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36112 
-Timestamp: 2023-10-19/14:21:07 Length: 172 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 35673 
-Timestamp: 2023-10-19/14:21:07 Length: 200 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 ICMP Type: 3 
-Timestamp: 2023-10-19/14:21:18 Length: 79 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 16819 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:18 Length: 79 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 48370 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:18 Length: 119 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 16819 
-Timestamp: 2023-10-19/14:21:18 Length: 153 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 48370 
-Timestamp: 2023-10-19/14:21:18 Length: 181 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 ICMP Type: 3 
-Timestamp: 2023-10-19/14:21:38 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:38 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:39 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:39 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:40 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:40 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:40 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 43315 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:40 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 43315 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:40 Length: 290 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 43315 
-Timestamp: 2023-10-19/14:21:40 Length: 339 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 43315 
-Timestamp: 2023-10-19/14:21:41 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:41 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:42 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:42 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:43 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:43 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:44 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:44 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:45 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:45 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:46 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:46 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:47 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:47 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:48 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:48 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:49 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:49 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:50 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:50 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:51 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:51 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:52 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:52 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:53 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:53 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:54 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:54 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:55 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:55 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:56 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:56 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:57 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:57 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:58 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:58 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:59 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:21:59 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:21:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 56402 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:59 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 5569 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:21:59 Length: 99 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 DestingetIcmpTypeation IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 5569 
-Timestamp: 2023-10-19/14:21:59 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 56402 
-Timestamp: 2023-10-19/14:22:00 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
-Timestamp: 2023-10-19/14:22:00 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
-Timestamp: 2023-10-19/14:22:06 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:06 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:06 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:06 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:06 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:06 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 50126 Destination Port (UDP): 50126 
-Timestamp: 2023-10-19/14:22:13 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 59578 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:13 Length: 166 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 59578 
-Timestamp: 2023-10-19/14:22:13 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 33654 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:15 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34373 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:15 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34373 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:15 Length: 97 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34373 
-Timestamp: 2023-10-19/14:22:15 Length: 146 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34373 
-Timestamp: 2023-10-19/14:22:18 Length: 94 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 33654 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:18 Length: 162 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 33654 
-Timestamp: 2023-10-19/14:22:18 Length: 143 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 42263 Destination Port (UDP): 53 
-Timestamp: 2023-10-19/14:22:18 Length: 211 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 42263 
+Timestamp: 2023-10-22/10:14:37 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:37 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 
+Timestamp: 2023-10-22/10:14:37 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 
+Timestamp: 2023-10-22/10:14:37 Length: 267 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 
+Timestamp: 2023-10-22/10:14:37 Length: 113 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 
+Timestamp: 2023-10-22/10:14:37 Length: 223 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 
+Timestamp: 2023-10-22/10:14:37 Length: 183 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 
+Timestamp: 2023-10-22/10:14:37 Length: 103 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:37 Length: 123 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:37 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:37 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:38 Length: 171 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:38 Length: 191 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:39 Length: 103 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:39 Length: 123 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:39 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 
+Timestamp: 2023-10-22/10:14:39 Length: 141 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 
+Timestamp: 2023-10-22/10:14:40 Length: 692 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:40 Length: 712 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:41 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 
+Timestamp: 2023-10-22/10:14:41 Length: 151 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 
+Timestamp: 2023-10-22/10:14:42 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:42 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-22/10:14:42 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-22/10:14:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:46 Length: 171 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 
+Timestamp: 2023-10-22/10:14:46 Length: 191 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:14:47 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:14:52 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:48 Length: 171 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:48 Length: 191 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:48 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:48 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:48 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:48 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:48 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:48 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:48 Length: 358 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:48 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:49 Length: 194 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:49 Length: 214 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:49 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:49 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:49 Length: 862 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:49 Length: 882 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:49 Length: 120 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:49 Length: 140 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:49 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:49 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:50 Length: 358 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:50 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:51 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:51 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:51 Length: 194 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:51 Length: 214 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:52 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:53 Length: 459 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:53 Length: 479 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:54 Length: 712 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:55 Length: 213 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.48 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:16:55 Length: 233 Source MAC: 4e:70:d8:4c:d3:6e Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:16:56 Length: 92 Source MAC: ac:74:b1:3b:3:8a Destination MAC: ff:ff:ff:ff:ff:ff Source IP: 192.168.1.198 Destination IP: 192.168.1.255 Source Port (UDP): 137 Destination Port (UDP): 137 
+Timestamp: 2023-10-22/10:16:57 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:57 Length: 92 Source MAC: ac:74:b1:3b:3:8a Destination MAC: ff:ff:ff:ff:ff:ff Source IP: 192.168.1.198 Destination IP: 192.168.1.255 Source Port (UDP): 137 Destination Port (UDP): 137 
+Timestamp: 2023-10-22/10:16:58 Length: 92 Source MAC: ac:74:b1:3b:3:8a Destination MAC: ff:ff:ff:ff:ff:ff Source IP: 192.168.1.198 Destination IP: 192.168.1.255 Source Port (UDP): 137 Destination Port (UDP): 137 
+Timestamp: 2023-10-22/10:16:58 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:16:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-22/10:17:00 Length: 194 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-22/10:17:00 Length: 214 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-22/10:17:05 Length: 89 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 64671 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:05 Length: 89 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36829 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:05 Length: 89 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 41577 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:05 Length: 117 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 64671 
+Timestamp: 2023-10-22/10:17:05 Length: 105 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36829 
+Timestamp: 2023-10-22/10:17:05 Length: 146 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 41577 
+Timestamp: 2023-10-22/10:17:05 Length: 174 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 ICMP Type: 3 
+Timestamp: 2023-10-22/10:17:07 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 66 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 978 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 418 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 530 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 Source Port (UDP): 41080 Destination Port (UDP): 41080 
+Timestamp: 2023-10-22/10:17:07 Length: 79 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 24847 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:07 Length: 79 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 57698 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:07 Length: 79 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 62221 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:07 Length: 131 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 24847 
+Timestamp: 2023-10-22/10:17:07 Length: 119 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 57698 
+Timestamp: 2023-10-22/10:17:07 Length: 153 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 62221 
+Timestamp: 2023-10-22/10:17:07 Length: 181 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 ICMP Type: 3 
+Timestamp: 2023-10-22/10:17:07 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:07 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:08 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:08 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:09 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:09 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:10 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 52830 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:10 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 36673 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:10 Length: 74 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 60517 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:10 Length: 90 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 36673 
+Timestamp: 2023-10-22/10:17:10 Length: 99 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 60517 
+Timestamp: 2023-10-22/10:17:10 Length: 102 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 52830 
+Timestamp: 2023-10-22/10:17:10 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:10 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:11 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:11 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:11 Length: 83 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 34142 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:11 Length: 83 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 56469 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:11 Length: 83 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 3849 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:11 Length: 99 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 56469 
+Timestamp: 2023-10-22/10:17:11 Length: 140 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 3849 
+Timestamp: 2023-10-22/10:17:11 Length: 111 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 34142 
+Timestamp: 2023-10-22/10:17:12 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:12 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:13 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:13 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:14 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:14 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:15 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:15 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:16 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:16 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:17 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:17 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:18 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 8 
+Timestamp: 2023-10-22/10:17:18 Length: 98 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.1 ICMP Type: 0 
+Timestamp: 2023-10-22/10:17:21 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 58929 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:21 Length: 81 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 58929 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:21 Length: 146 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 58929 
+Timestamp: 2023-10-22/10:17:21 Length: 97 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 58929 
+Timestamp: 2023-10-22/10:17:29 Length: 93 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 28345 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:29 Length: 93 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 22324 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:29 Length: 93 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 63040 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/10:17:29 Length: 139 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 22324 
+Timestamp: 2023-10-22/10:17:29 Length: 151 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 28345 
+Timestamp: 2023-10-22/10:17:29 Length: 216 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 63040 
+Timestamp: 2023-10-22/10:17:29 Length: 244 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 ICMP Type: 3 
+Timestamp: 2023-10-22/20:43:06 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 50571 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/20:43:06 Length: 110 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 50571 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/20:43:07 Length: 271 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 50571 
+Timestamp: 2023-10-22/20:43:07 Length: 339 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 50571 
+Timestamp: 2023-10-22/20:43:12 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 32465 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/20:43:12 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 29212 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/20:43:12 Length: 75 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.1 Destination IP: 127.0.0.53 Source Port (UDP): 46741 Destination Port (UDP): 53 
+Timestamp: 2023-10-22/20:43:12 Length: 91 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 29212 
+Timestamp: 2023-10-22/20:43:12 Length: 132 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 46741 
+Timestamp: 2023-10-22/20:43:12 Length: 103 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 Source Port (UDP): 53 Destination Port (UDP): 32465 

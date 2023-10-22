@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** packetHandler
@@ -20,12 +19,9 @@
     #include <netinet/ip.h>
     #include <netinet/tcp.h>
     #include <netinet/udp.h>
-    #include <arpa/inet.h>
     #include <netinet/ip_icmp.h>
 
-
-    class Sniffer
-    {
+    class Sniffer {
         private:
         protected:
             std::vector<std::string> devices;
@@ -35,6 +31,7 @@
 
             const char *getTimestamp() const;
             int getLength(const pcap_pkthdr *pkthdr) const;
+
             char *getMac(struct ethhdr *ethHeader, int dest) const;
             char *getIp(struct ip *ipHeader, int dest) const;
             std::string getPortTCP(struct tcphdr *tcpHeader, int dest) const;

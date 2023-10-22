@@ -1,3 +1,9 @@
+/*
+** cuddly-couscous
+** File description:
+** PacketParser
+*/
+
 #include "PacketParser.hpp"
 
 PacketParser::PacketParser() {
