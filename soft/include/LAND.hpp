@@ -18,7 +18,7 @@
             void addPacket(std::map<std::string, std::string>);
             std::vector<std::map<std::string, std::string>> getPackets(void);
             void displayPackets(void);
-            void analysePackets(void);
+            void analysePackets();
     };
 
 #endif /* !LAND_HPP_ */

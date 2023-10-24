@@ -19,9 +19,12 @@ void signalHandler(int signum) {
 
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
     std::ostringstream logLine;
+    Packet packet;
 
     logLine << "Timestamp: " << sniffer.getTimestamp() << " ";
+    packet.setTimeStamp(sniffer.getTimestamp());
     logLine << "Length: " << sniffer.getLength(pkthdr) << " ";
+    packet.setLength(sniffer.getLength(pkthdr));
 
     struct ethhdr *ethHeader = (struct ethhdr *)packetData;
     logLine << "Source MAC: " << sniffer.getMac(ethHeader, 0) << " ";
@@ -59,6 +62,7 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
 
     outputFile << std::endl << logLine.str();
     parser.parsePacket(logLine.str());
+    parser.addPacketToDatabase(packet);
     outputFile.close();
 }
 
@@ -73,6 +77,7 @@ int startingUp(char *device_name)
 
     if (handle == nullptr) {
         sniffer.displayDevices();
+        parser.displayDatabase();
         //parser.displayPackets();
         return 1;
     }

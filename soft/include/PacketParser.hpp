@@ -13,6 +13,7 @@
     #include <map>
     #include <fstream>
     #include <iostream>
+    #include "Packet.hpp"
 
     class PacketParser {
     public:
@@ -25,8 +26,12 @@
         void parsePacket(const std::string&);
         void displayPackets();
 
+        void addPacketToDatabase(Packet packet);
+        void displayDatabase();
+
     private:
         std::vector<std::map<std::string, std::string>> packets;
+        std::vector<Packet> _packets;
     };
 
 #endif

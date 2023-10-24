@@ -46,7 +46,6 @@ void PacketParser::parsePacket(const std::string& packet) {
             packet_map[key] = value;
     }
     if (!packet.empty())
-        addPacket(packet_map);
     packet_map.clear();
 }
 
@@ -60,4 +59,15 @@ void PacketParser::displayPackets()
         }
         std::cout << std::endl;
     }
+}
+
+void PacketParser::addPacketToDatabase(Packet packet)
+{
+    _packets.push_back(packet);
+}
+
+void PacketParser::displayDatabase()
+{
+    for (auto pck : _packets)
+        std::cout << &pck << std::endl;
 }
