@@ -4,7 +4,7 @@
 ** DeauthFrames
 */
 
-#include " DeauthFrames.hpp"
+#include "DeauthFrames.hpp"
 
 DeauthFrames::DeauthFrames()
 {
@@ -14,18 +14,22 @@ DeauthFrames::~DeauthFrames()
 {
 }
 
-void DeauthFrames::addPacket(std::map<std::string, std::string>)
+void DeauthFrames::addPacket(Packet packet)
 {
+    _packets.push_back(packet);
 }
 
-std::vector<std::map<std::string, std::string>> DeauthFrames::getPackets(void)
+std::vector<Packet> DeauthFrames::getPackets(void)
 {
 }
 
 void DeauthFrames::displayPackets(void)
 {
+    for (auto packet : _packets)
+        std::cout << &packet << std::endl;
 }
 
-void DeauthFrames::analysePackets(void)
+void DeauthFrames::analysePackets(Packet)
 {
+    return;
 }

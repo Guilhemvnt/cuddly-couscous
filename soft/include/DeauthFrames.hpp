@@ -12,13 +12,14 @@
     class DeauthFrames : public virtual IAttacks {
         private:
         protected:
+            std::vector<Packet> _packets;
         public:
             DeauthFrames(void);
             ~DeauthFrames(void);
 
-            void addPacket(std::map<std::string, std::string>);
-            std::vector<std::map<std::string, std::string>> getPackets(void);
+            void addPacket(Packet);
+            std::vector<Packet> getPackets(void);
             void displayPackets(void);
-            void analysePackets(void);
+            void analysePackets(Packet);
     };
 #endif /* !DEAUTHFRAMES_HPP_ */

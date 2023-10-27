@@ -75,6 +75,11 @@ void Packet::setRSTflag(const std::string& RSTflag)
     _RSTflag = std::stoi(RSTflag);
 }
 
+void Packet::setTTL(const int ttl)
+{
+    _TTL = ttl;
+}
+
 std::string Packet::getTimeStamp() const
 {
     return _timeStamp;
@@ -134,6 +139,12 @@ int Packet::getRSTflag() const
 {
     return _RSTflag;
 }
+
+int Packet::getTTL() const
+{
+    return _TTL;
+}
+
 
 // Path: soft/src/Parser.cpp
 

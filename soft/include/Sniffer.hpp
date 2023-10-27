@@ -37,6 +37,7 @@
             std::string getPortTCP(struct tcphdr *tcpHeader, int dest) const;
             std::string getPortUDP(struct udphdr *udpHeader, int dest) const;
             std::string getIcmpType(struct icmphdr *icmpHeader) const;
+            int getTTL(struct ip *ipHeader) const;
 
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;

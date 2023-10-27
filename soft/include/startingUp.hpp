@@ -15,6 +15,8 @@
     #include <csignal>
     #include <memory>
     #include "PacketParser.hpp"
+    #include "TTL.hpp"
+    #include "LAND.hpp"
 
     int startingUp(char *device_name);
 

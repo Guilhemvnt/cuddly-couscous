@@ -94,3 +94,8 @@ std::string Sniffer::getIcmpType(struct icmphdr *icmpHeader) const
 {
     return (std::to_string(icmpHeader->type));
 }
+
+int Sniffer::getTTL(struct ip *ipHeader) const
+{
+    return ipHeader->ip_ttl;
+}

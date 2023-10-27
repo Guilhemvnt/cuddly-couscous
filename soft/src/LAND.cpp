@@ -14,18 +14,30 @@ LAND::~LAND()
 {
 }
 
-void LAND::addPacket(std::map<std::string, std::string>)
+void LAND::addPacket(Packet packet)
 {
+    _packets.push_back(packet);
 }
 
-std::vector<std::map<std::string, std::string>> LAND::getPackets(void)
+std::vector<Packet> LAND::getPackets(void)
 {
 }
 
 void LAND::displayPackets(void)
 {
+    for (auto packet : _packets)
+        std::cout << &packet << std::endl;
 }
 
-void LAND::analysePackets(void)
+void LAND::analysePackets(Packet packet)
 {
+    if (packet.getSrcIp() != "<>" && packet.getDstIp() != "<>")
+        if (packet.getDstIp() == packet.getSrcIp() && packet.getDstPortTCP() == packet.getSrcPortTCP()) {
+            addPacket(packet);
+            std::cout << "LAND attack detected" << std::endl;
+        } else {
+            return;
+        }
+    else
+        return;
 }

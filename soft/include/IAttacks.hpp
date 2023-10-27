@@ -10,14 +10,15 @@
     #include <vector>
     #include <map>
     #include <string>
+    #include "Packet.hpp"
 
     class IAttacks {
         public:
             virtual ~IAttacks(void) = default;
-            virtual void addPacket(std::map<std::string, std::string>) = 0;
-            virtual std::vector<std::map<std::string, std::string>> getPackets(void) = 0;
+            virtual void addPacket(Packet) = 0;
+            virtual std::vector<Packet> getPackets(void) = 0;
             virtual void displayPackets(void) = 0;
-            virtual void analysePackets(void) = 0;
+            virtual void analysePackets(Packet) = 0;
     };
 
 #endif /* !IATTACKS_HPP_ */

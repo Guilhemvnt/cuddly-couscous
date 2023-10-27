@@ -1,22 +1,21 @@
 /*
-
 ** cuddly-couscous
 ** File description:
-** LAND
+** TTL
 */
 
-#ifndef LAND_HPP_
-    #define LAND_HPP_
+#ifndef TTL_HPP_
+    #define TTL_HPP_
 
     #include "IAttacks.hpp"
 
-    class LAND : public virtual IAttacks{
+    class TTL : public virtual IAttacks{
         protected:
             std::vector<Packet> _packets;
         private:
         public:
-            LAND();
-            ~LAND();
+            TTL();
+            ~TTL();
 
             void addPacket(Packet);
             std::vector<Packet> getPackets(void);
@@ -24,4 +23,4 @@
             void analysePackets(Packet);
     };
 
-#endif /* !LAND_HPP_ */
+#endif /* !TTL_HPP_ */

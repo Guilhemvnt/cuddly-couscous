@@ -11,6 +11,7 @@
     #include <map>
 
     #define UNDEFINE 0
+    #define UNTIME -1;
 
     class Packet {
         protected:
@@ -34,11 +35,12 @@
 
             int _RSTflag = UNDEFINE;
 
+            int  _TTL = UNTIME;
+
         public:
             Packet();
             ~Packet();
 
-            void stringToPacket(const std::string&);
             void setTimeStamp(const std::string&);
             void setSrcIp(const std::string&);
             void setDstIp(const std::string&);
@@ -51,6 +53,7 @@
             void setSrcPortUDP(const std::string&);
             void setDstPortUDP(const std::string&);
             void setRSTflag(const std::string&);
+            void setTTL(const int);
 
             std::string getTimeStamp() const;
             std::string getSrcIp() const;
@@ -65,6 +68,7 @@
             int getSrcPortUDP() const;
             int getDstPortUDP() const;
             int getRSTflag() const;
+            int getTTL() const;
         private:
     };
 inline std::ostream &operator<<(std::ostream &out, const Packet *packet) {
@@ -73,7 +77,7 @@ inline std::ostream &operator<<(std::ostream &out, const Packet *packet) {
     << " Source MAC: " << packet->getSrcMAC() << " Destination MAC: "<< packet->getDstMAC() \
     << " Source Port TCP: " << packet->getSrcPortTCP() << " Destination Port TCP: "\
     << packet->getDstPortTCP() << " Source Port UDP: " << packet->getSrcPortUDP() << " Destination Port UDP: " << packet->getDstPortUDP()\
-    << " RST Flag: " << packet->getRSTflag() << std::endl;
+    << " RST Flag: " << packet->getRSTflag() << " TTL: " << packet->getTTL() << std::endl;
     return out;
 }
 
