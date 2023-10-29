@@ -99,3 +99,24 @@ int Sniffer::getTTL(struct ip *ipHeader) const
 {
     return ipHeader->ip_ttl;
 }
+
+int Sniffer::getRSTflag(struct tcphdr *tcpHeader) const
+{
+    return tcpHeader->rst;
+}
+
+int Sniffer::getSYNflag(struct tcphdr *tcpHeader) const
+{
+    return tcpHeader->syn;
+}
+
+int Sniffer::getACKflag(struct tcphdr *tcpHeader) const
+{
+    return tcpHeader->ack;
+}
+
+int Sniffer::getFINflag(struct tcphdr *tcpHeader) const
+{
+    return tcpHeader->fin;
+}
+

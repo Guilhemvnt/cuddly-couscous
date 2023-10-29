@@ -29,7 +29,11 @@ void DeauthFrames::displayPackets(void)
         std::cout << &packet << std::endl;
 }
 
-void DeauthFrames::analysePackets(Packet)
+void DeauthFrames::analysePackets(Packet packet)
 {
+    if (packet.getRSTflag() == 1) {
+        addPacket(packet);
+    } else
+        return;
     return;
 }

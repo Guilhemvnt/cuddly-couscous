@@ -49,7 +49,6 @@ void Packet::setLength(const int length)
     _length = length;
 }
 
-
 void Packet::setSrcPortTCP(const std::string& srcPortTCP)
 {
     _srcPortTCP = std::stoi(srcPortTCP);
@@ -70,9 +69,24 @@ void Packet::setDstPortUDP(const std::string& dstPortUDP)
     _dstPortUDP = std::stoi(dstPortUDP);
 }
 
-void Packet::setRSTflag(const std::string& RSTflag)
+void Packet::setRSTflag(const int RSTflag)
 {
-    _RSTflag = std::stoi(RSTflag);
+    _RSTflag = RSTflag;
+}
+
+void Packet::setSYNflag(const int SYNflag)
+{
+    _SYNflag = SYNflag;
+}
+
+void Packet::setACKflag(const int ACKflag)
+{
+    _ACKflag = ACKflag;
+}
+
+void Packet::setFINflag(const int FINflag)
+{
+    _FINflag = FINflag;
 }
 
 void Packet::setTTL(const int ttl)
@@ -138,6 +152,21 @@ int Packet::getDstPortUDP() const
 int Packet::getRSTflag() const
 {
     return _RSTflag;
+}
+
+int Packet::getSYNflag() const
+{
+    return _SYNflag;
+}
+
+int Packet::getACKflag() const
+{
+    return _ACKflag;
+}
+
+int Packet::getFINflag() const
+{
+    return _FINflag;
 }
 
 int Packet::getTTL() const

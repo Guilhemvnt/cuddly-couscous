@@ -60,3 +60,924 @@ Timestamp: 2023-10-26/23:35:48 Length: 73 Source MAC: 0:0:0:0:0:0 Destination MA
 Timestamp: 2023-10-26/23:35:48 Length: 89 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 TTL: 1 Source Port (UDP): 53 Destination Port (UDP): 31726 
 Timestamp: 2023-10-26/23:35:48 Length: 101 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 TTL: 1 Source Port (UDP): 53 Destination Port (UDP): 30672 
 Timestamp: 2023-10-26/23:35:48 Length: 130 Source MAC: 0:0:0:0:0:0 Destination MAC: 0:0:0:0:0:0 Source IP: 127.0.0.53 Destination IP: 127.0.0.1 TTL: 1 Source Port (UDP): 53 Destination Port (UDP): 57755 
+Timestamp: 2023-10-28/10:52:12 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 42819 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:52:13 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 42819 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:52:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:15 Length: 85 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52414 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:16 Length: 113 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52414 
+Timestamp: 2023-10-28/10:52:18 Length: 98 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33801 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:18 Length: 98 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34948 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:18 Length: 126 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33801 
+Timestamp: 2023-10-28/10:52:18 Length: 114 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34948 
+Timestamp: 2023-10-28/10:52:18 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52622 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 40256 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38357 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:19 Length: 134 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 40256 
+Timestamp: 2023-10-28/10:52:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38903 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:19 Length: 144 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38357 
+Timestamp: 2023-10-28/10:52:19 Length: 138 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52622 
+Timestamp: 2023-10-28/10:52:19 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38903 
+Timestamp: 2023-10-28/10:52:20 Length: 91 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.31 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/10:52:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:20 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:52:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:52:20 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:52:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:52:21 Length: 97 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 48035 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:21 Length: 97 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36534 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:21 Length: 97 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46365 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:21 Length: 125 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 48035 
+Timestamp: 2023-10-28/10:52:21 Length: 113 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36534 
+Timestamp: 2023-10-28/10:52:21 Length: 154 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46365 
+Timestamp: 2023-10-28/10:52:21 Length: 91 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.31 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/10:52:21 Length: 111 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:52:22 Length: 91 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.31 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/10:52:22 Length: 111 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:52:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:24 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47763 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:24 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54614 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:24 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 50498 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:24 Length: 102 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54614 
+Timestamp: 2023-10-28/10:52:24 Length: 114 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47763 
+Timestamp: 2023-10-28/10:52:24 Length: 136 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 50498 
+Timestamp: 2023-10-28/10:52:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:25 Length: 91 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.31 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/10:52:25 Length: 111 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:52:28 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:33 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:34 Length: 111 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:52:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39815 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46494 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55737 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 37223 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 191 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39815 
+Timestamp: 2023-10-28/10:52:47 Length: 106 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46494 
+Timestamp: 2023-10-28/10:52:47 Length: 213 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55737 
+Timestamp: 2023-10-28/10:52:47 Length: 150 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 37223 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55563 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54710 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35138 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 58658 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:47 Length: 106 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54710 
+Timestamp: 2023-10-28/10:52:47 Length: 213 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35138 
+Timestamp: 2023-10-28/10:52:47 Length: 150 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 58658 
+Timestamp: 2023-10-28/10:52:47 Length: 172 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55563 
+Timestamp: 2023-10-28/10:52:48 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 59844 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:48 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38182 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:48 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55520 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:48 Length: 90 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 40291 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:48 Length: 191 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 59844 
+Timestamp: 2023-10-28/10:52:48 Length: 106 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38182 
+Timestamp: 2023-10-28/10:52:48 Length: 150 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 40291 
+Timestamp: 2023-10-28/10:52:48 Length: 213 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55520 
+Timestamp: 2023-10-28/10:52:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:49 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 37950 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:49 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57132 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:49 Length: 268 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57132 
+Timestamp: 2023-10-28/10:52:49 Length: 226 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 37950 
+Timestamp: 2023-10-28/10:52:49 Length: 113 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54097 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:49 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54097 
+Timestamp: 2023-10-28/10:52:49 Length: 113 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38265 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:49 Length: 113 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39354 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:49 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39354 
+Timestamp: 2023-10-28/10:52:49 Length: 129 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38265 
+Timestamp: 2023-10-28/10:52:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:51 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56595 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:51 Length: 103 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49899 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:51 Length: 229 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56595 
+Timestamp: 2023-10-28/10:52:51 Length: 271 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49899 
+Timestamp: 2023-10-28/10:52:51 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51673 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:51 Length: 187 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51673 
+Timestamp: 2023-10-28/10:52:51 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46035 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:51 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46533 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:51 Length: 132 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46035 
+Timestamp: 2023-10-28/10:52:51 Length: 187 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46533 
+Timestamp: 2023-10-28/10:52:52 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46619 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:52 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 37612 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:52 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49432 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:52 Length: 178 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49432 
+Timestamp: 2023-10-28/10:52:52 Length: 137 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 37612 
+Timestamp: 2023-10-28/10:52:52 Length: 204 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46619 
+Timestamp: 2023-10-28/10:52:52 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47102 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:52 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57001 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:52 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47102 
+Timestamp: 2023-10-28/10:52:52 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57001 
+Timestamp: 2023-10-28/10:52:52 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:52:52 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:52:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:54 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33236 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:54 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34033 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:52:54 Length: 132 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33236 
+Timestamp: 2023-10-28/10:52:54 Length: 187 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34033 
+Timestamp: 2023-10-28/10:52:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:56 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:bb:97:15 
+Timestamp: 2023-10-28/10:52:56 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:52:58 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:52:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:01 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:01 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:06 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35794 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:06 Length: 116 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55368 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:06 Length: 132 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35794 
+Timestamp: 2023-10-28/10:53:06 Length: 187 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55368 
+Timestamp: 2023-10-28/10:53:08 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:11 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51920 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55786 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39299 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:12 Length: 102 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55786 
+Timestamp: 2023-10-28/10:53:12 Length: 114 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51920 
+Timestamp: 2023-10-28/10:53:12 Length: 143 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39299 
+Timestamp: 2023-10-28/10:53:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:15 Length: 85 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57789 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:15 Length: 85 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34890 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:15 Length: 113 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57789 
+Timestamp: 2023-10-28/10:53:15 Length: 101 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34890 
+Timestamp: 2023-10-28/10:53:17 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:17 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:18 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33979 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 44585 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 53788 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:19 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 53788 
+Timestamp: 2023-10-28/10:53:19 Length: 104 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 44585 
+Timestamp: 2023-10-28/10:53:19 Length: 200 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33979 
+Timestamp: 2023-10-28/10:53:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:26 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:31 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:33 Length: 86 Source MAC: 30:d3:2d:bf:80:56 Destination MAC: 33:33:0:0:0:1 
+Timestamp: 2023-10-28/10:53:33 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:bb:97:15 
+Timestamp: 2023-10-28/10:53:33 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/10:53:33 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/10:53:33 Length: 98 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:53:33 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:33 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:53:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:38 Length: 102 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:53:38 Length: 82 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.192 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/10:53:38 Length: 102 Source MAC: 0:e0:99:8:fe:78 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:53:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:41 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39092 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:41 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 32975 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:41 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36776 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:41 Length: 135 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36776 
+Timestamp: 2023-10-28/10:53:41 Length: 232 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39092 
+Timestamp: 2023-10-28/10:53:41 Length: 280 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 32975 
+Timestamp: 2023-10-28/10:53:41 Length: 46 Source MAC: 74:ee:2a:1e:64:66 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.10 Destination IP: 224.0.0.251 TTL: 1 
+Timestamp: 2023-10-28/10:53:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:44 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/10:53:44 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:46 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:47 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/10:53:47 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:49 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:49 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:51 Length: 93 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39376 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:51 Length: 93 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35197 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:51 Length: 93 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46634 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:51 Length: 109 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35197 
+Timestamp: 2023-10-28/10:53:51 Length: 148 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46634 
+Timestamp: 2023-10-28/10:53:51 Length: 148 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39376 
+Timestamp: 2023-10-28/10:53:52 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49743 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:53:52 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49743 
+Timestamp: 2023-10-28/10:53:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:54 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:54 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:56 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:53:56 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:53:58 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:53:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:10 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 36817 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:54:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:11 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 36817 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:54:12 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 36817 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:54:13 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 36817 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:54:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:18 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:28 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:33 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:36 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 39456 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:54:36 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33318 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:54:36 Length: 97 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 39456 
+Timestamp: 2023-10-28/10:54:36 Length: 146 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33318 
+Timestamp: 2023-10-28/10:54:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:54:41 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:54:41 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:54:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:54:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:56 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:58 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:54:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:04 Length: 82 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34561 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:04 Length: 82 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 53697 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:04 Length: 194 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34561 
+Timestamp: 2023-10-28/10:55:04 Length: 139 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 53697 
+Timestamp: 2023-10-28/10:55:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:08 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:55:09 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:09 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 37985 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:09 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 53916 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:09 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54070 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:09 Length: 147 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 37985 
+Timestamp: 2023-10-28/10:55:09 Length: 169 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54070 
+Timestamp: 2023-10-28/10:55:09 Length: 135 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 53916 
+Timestamp: 2023-10-28/10:55:09 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 48507 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:09 Length: 138 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 48507 
+Timestamp: 2023-10-28/10:55:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:17 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57792 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:17 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 58831 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:17 Length: 143 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 58831 
+Timestamp: 2023-10-28/10:55:17 Length: 102 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57792 
+Timestamp: 2023-10-28/10:55:18 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51077 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57814 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:19 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35979 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:19 Length: 104 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57814 
+Timestamp: 2023-10-28/10:55:19 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51077 
+Timestamp: 2023-10-28/10:55:19 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35979 
+Timestamp: 2023-10-28/10:55:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:24 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:55:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:28 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:36 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:36 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36411 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:36 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36009 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:36 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38840 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:55:36 Length: 283 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36009 
+Timestamp: 2023-10-28/10:55:36 Length: 232 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36411 
+Timestamp: 2023-10-28/10:55:36 Length: 135 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38840 
+Timestamp: 2023-10-28/10:55:38 Length: 86 Source MAC: 30:d3:2d:bf:80:56 Destination MAC: 33:33:0:0:0:1 
+Timestamp: 2023-10-28/10:55:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:bb:97:15 
+Timestamp: 2023-10-28/10:55:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/10:55:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/10:55:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:39 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/10:55:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:55:41 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:42 Length: 46 Source MAC: 74:ee:2a:1e:64:66 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.10 Destination IP: 224.0.0.251 TTL: 1 
+Timestamp: 2023-10-28/10:55:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:47 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/10:55:47 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:52 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:52 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:55:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:57 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:55:57 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:55:58 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:55:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:06 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34814 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:56:06 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55953 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:56:06 Length: 127 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34814 
+Timestamp: 2023-10-28/10:56:06 Length: 182 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55953 
+Timestamp: 2023-10-28/10:56:06 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 40332 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/10:56:06 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 40332 
+Timestamp: 2023-10-28/10:56:08 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:09 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 37825 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:56:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:10 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 37825 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:56:11 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:56:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:56:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/10:56:11 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:56:11 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 37825 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:56:12 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 37825 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/10:56:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:13 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/10:56:13 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/10:56:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/10:56:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:16 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43820 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:16 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33693 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:16 Length: 146 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33693 
+Timestamp: 2023-10-28/15:55:16 Length: 97 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43820 
+Timestamp: 2023-10-28/15:55:17 Length: 358 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:17 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:17 Length: 174 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:17 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:18 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:18 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:18 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:18 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:18 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:18 Length: 358 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:18 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:18 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:18 Length: 174 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:19 Length: 89 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 59759 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 89 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 37465 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 89 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55419 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 146 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 59759 
+Timestamp: 2023-10-28/15:55:19 Length: 146 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55419 
+Timestamp: 2023-10-28/15:55:19 Length: 105 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 37465 
+Timestamp: 2023-10-28/15:55:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:19 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:19 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:55:19 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54267 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43094 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35828 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:19 Length: 144 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35828 
+Timestamp: 2023-10-28/15:55:19 Length: 103 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43094 
+Timestamp: 2023-10-28/15:55:19 Length: 115 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54267 
+Timestamp: 2023-10-28/15:55:20 Length: 358 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:20 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:21 Length: 154 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:21 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:21 Length: 174 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:55:21 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:21 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:55:24 Length: 692 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:24 Length: 712 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:24 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:55:24 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:25 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47877 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:25 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35944 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:25 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 41078 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:25 Length: 110 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35944 
+Timestamp: 2023-10-28/15:55:25 Length: 151 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 41078 
+Timestamp: 2023-10-28/15:55:25 Length: 122 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47877 
+Timestamp: 2023-10-28/15:55:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57692 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 45850 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57357 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:26 Length: 116 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57692 
+Timestamp: 2023-10-28/15:55:26 Length: 104 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 45850 
+Timestamp: 2023-10-28/15:55:26 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57357 
+Timestamp: 2023-10-28/15:55:27 Length: 187 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:27 Length: 207 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:31 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:31 Length: 91 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:35 Length: 64 Source MAC: b4:6b:fc:f1:24:8a Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:36 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:43 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/15:55:43 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:44 Length: 513 Source MAC: b4:6b:fc:f1:24:8a Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.107 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:55:44 Length: 46 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.31 Destination IP: 224.0.0.251 TTL: 1 
+Timestamp: 2023-10-28/15:55:44 Length: 188 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:45 Length: 213 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:45 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55111 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:45 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36896 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:45 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52947 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:45 Length: 105 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54639 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:55:45 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36896 
+Timestamp: 2023-10-28/15:55:45 Length: 186 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52947 
+Timestamp: 2023-10-28/15:55:45 Length: 157 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55111 
+Timestamp: 2023-10-28/15:55:45 Length: 162 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54639 
+Timestamp: 2023-10-28/15:55:48 Length: 213 Source MAC: 3a:98:ba:87:62:d2 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:55:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:51 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:55:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:55:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:56 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:55:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:01 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:01 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43728 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:01 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57978 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:01 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43728 
+Timestamp: 2023-10-28/15:56:01 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52129 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:01 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52129 
+Timestamp: 2023-10-28/15:56:01 Length: 255 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57978 
+Timestamp: 2023-10-28/15:56:02 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 60659 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:02 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46274 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:02 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55388 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:02 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 60985 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:02 Length: 204 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55388 
+Timestamp: 2023-10-28/15:56:02 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 44973 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:02 Length: 204 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 60659 
+Timestamp: 2023-10-28/15:56:02 Length: 137 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46274 
+Timestamp: 2023-10-28/15:56:02 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 44973 
+Timestamp: 2023-10-28/15:56:02 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 60985 
+Timestamp: 2023-10-28/15:56:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:05 Length: 96 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33132 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:05 Length: 96 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57439 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:05 Length: 356 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33132 
+Timestamp: 2023-10-28/15:56:05 Length: 452 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57439 
+Timestamp: 2023-10-28/15:56:06 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:06 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:06 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:10 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 52116 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:56:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:10 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 52116 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:56:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:11 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 52116 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:56:12 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 52116 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:56:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:18 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56142 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:18 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 55314 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:18 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33887 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:18 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33887 
+Timestamp: 2023-10-28/15:56:18 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56142 
+Timestamp: 2023-10-28/15:56:18 Length: 255 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 55314 
+Timestamp: 2023-10-28/15:56:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:23 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:23 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38010 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38769 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 45653 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 42988 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49328 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 45832 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 115 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 42988 
+Timestamp: 2023-10-28/15:56:26 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38010 
+Timestamp: 2023-10-28/15:56:26 Length: 104 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38769 
+Timestamp: 2023-10-28/15:56:26 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54863 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:26 Length: 167 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 45832 
+Timestamp: 2023-10-28/15:56:26 Length: 103 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49328 
+Timestamp: 2023-10-28/15:56:26 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 45653 
+Timestamp: 2023-10-28/15:56:26 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54863 
+Timestamp: 2023-10-28/15:56:28 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:35 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35671 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:35 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 40420 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:35 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 53599 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:35 Length: 165 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 53599 
+Timestamp: 2023-10-28/15:56:35 Length: 274 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 40420 
+Timestamp: 2023-10-28/15:56:35 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35671 
+Timestamp: 2023-10-28/15:56:36 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:38 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 48705 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:38 Length: 268 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 48705 
+Timestamp: 2023-10-28/15:56:38 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 94 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 173 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 275 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:38 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:42 Length: 86 Source MAC: 30:d3:2d:bf:80:56 Destination MAC: 33:33:0:0:0:1 
+Timestamp: 2023-10-28/15:56:42 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:56:42 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/15:56:42 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:bb:97:15 
+Timestamp: 2023-10-28/15:56:42 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/15:56:43 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:56:43 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:56:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:50 Length: 46 Source MAC: 74:ee:2a:1e:64:66 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.10 Destination IP: 224.0.0.251 TTL: 1 
+Timestamp: 2023-10-28/15:56:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:56 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:56:59 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 50000 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:59 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49758 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:59 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36993 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:56:59 Length: 122 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 50000 
+Timestamp: 2023-10-28/15:56:59 Length: 151 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36993 
+Timestamp: 2023-10-28/15:56:59 Length: 110 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49758 
+Timestamp: 2023-10-28/15:57:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:01 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:03 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:57:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:06 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:08 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:13 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/15:57:13 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:17 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54844 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:17 Length: 244 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54844 
+Timestamp: 2023-10-28/15:57:17 Length: 74 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 1 ACK Flag: 0 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:17 Length: 76 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 35.232.111.17 Destination IP: 192.168.1.192 TTL: 61 Source Port (TCP): 80 Destination Port (TCP): 38094 RST Flag: 0 SYN Flag: 1 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:17 Length: 66 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:17 Length: 153 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:17 Length: 68 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 35.232.111.17 Destination IP: 192.168.1.192 TTL: 61 Source Port (TCP): 80 Destination Port (TCP): 38094 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:17 Length: 68 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 35.232.111.17 Destination IP: 192.168.1.192 TTL: 61 Source Port (TCP): 80 Destination Port (TCP): 38094 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 1 
+Timestamp: 2023-10-28/15:57:17 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:18 Length: 214 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 35.232.111.17 Destination IP: 192.168.1.192 TTL: 61 Source Port (TCP): 80 Destination Port (TCP): 38094 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:18 Length: 66 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:18 Length: 66 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 35.232.111.17 TTL: 64 Source Port (TCP): 38094 Destination Port (TCP): 80 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 1 
+Timestamp: 2023-10-28/15:57:18 Length: 68 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 35.232.111.17 Destination IP: 192.168.1.192 TTL: 61 Source Port (TCP): 80 Destination Port (TCP): 38094 RST Flag: 0 SYN Flag: 0 ACK Flag: 1 FIN Flag: 0 
+Timestamp: 2023-10-28/15:57:18 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57061 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:18 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43914 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:18 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51711 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:18 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 58854 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:18 Length: 137 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43914 
+Timestamp: 2023-10-28/15:57:18 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38182 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:18 Length: 149 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57061 
+Timestamp: 2023-10-28/15:57:18 Length: 178 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51711 
+Timestamp: 2023-10-28/15:57:18 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38182 
+Timestamp: 2023-10-28/15:57:18 Length: 156 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 58854 
+Timestamp: 2023-10-28/15:57:19 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 44691 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:19 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46627 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:19 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 44691 
+Timestamp: 2023-10-28/15:57:19 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51984 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:19 Length: 274 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46627 
+Timestamp: 2023-10-28/15:57:19 Length: 165 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51984 
+Timestamp: 2023-10-28/15:57:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:19 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:19 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:57:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:20 Length: 374 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 154 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:21 Length: 174 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 174 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 252 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 232 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:21 Length: 232 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:21 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 252 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 374 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:21 Length: 239 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:21 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 174 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 450 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 259 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 213 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 422 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:22 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:57:22 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:23 Length: 450 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:23 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:23 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:23 Length: 374 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:24 Length: 378 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:24 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:57:24 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:25 Length: 154 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:25 Length: 174 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:25 Length: 450 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:25 Length: 439 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:25 Length: 459 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:26 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:27 Length: 684 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:27 Length: 704 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:28 Length: 692 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:28 Length: 712 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:30 Length: 183 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.120 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:30 Length: 203 Source MAC: b2:f2:23:d2:e4:bb Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:30 Length: 187 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.44 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:57:30 Length: 207 Source MAC: 1e:9c:18:d:d1:41 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:57:31 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:36 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:39 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56210 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:39 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47101 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:39 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52269 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:39 Length: 112 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56210 
+Timestamp: 2023-10-28/15:57:39 Length: 100 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47101 
+Timestamp: 2023-10-28/15:57:39 Length: 141 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52269 
+Timestamp: 2023-10-28/15:57:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:44 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:57:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:57:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:48 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:57:56 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51791 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:56 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 51332 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:56 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51791 
+Timestamp: 2023-10-28/15:57:56 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 53576 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:57:56 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 53576 
+Timestamp: 2023-10-28/15:57:56 Length: 274 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 51332 
+Timestamp: 2023-10-28/15:57:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:01 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:02 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:58:02 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:58:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:06 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:10 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 41806 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:58:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:11 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 41806 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:58:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:12 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 41806 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:58:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57865 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56075 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:12 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 58502 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:12 Length: 143 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 58502 
+Timestamp: 2023-10-28/15:58:12 Length: 114 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57865 
+Timestamp: 2023-10-28/15:58:12 Length: 102 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56075 
+Timestamp: 2023-10-28/15:58:13 Length: 215 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 1:0:5e:7f:ff:fa Source IP: 192.168.1.192 Destination IP: 239.255.255.250 TTL: 1 Source Port (UDP): 41806 Destination Port (UDP): 1900 
+Timestamp: 2023-10-28/15:58:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:14 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34378 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:14 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43034 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:14 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 42603 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:14 Length: 165 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 42603 
+Timestamp: 2023-10-28/15:58:14 Length: 274 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43034 
+Timestamp: 2023-10-28/15:58:14 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34378 
+Timestamp: 2023-10-28/15:58:15 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:18 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57061 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:18 Length: 81 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 38259 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:18 Length: 165 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 38259 
+Timestamp: 2023-10-28/15:58:18 Length: 97 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57061 
+Timestamp: 2023-10-28/15:58:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 41274 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 54259 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 59647 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:19 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56375 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:19 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47638 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:19 Length: 178 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 59647 
+Timestamp: 2023-10-28/15:58:19 Length: 137 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 54259 
+Timestamp: 2023-10-28/15:58:19 Length: 149 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 41274 
+Timestamp: 2023-10-28/15:58:19 Length: 156 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56375 
+Timestamp: 2023-10-28/15:58:19 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47638 
+Timestamp: 2023-10-28/15:58:19 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:58:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:58:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:21 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:22 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 35727 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:22 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57164 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:22 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 46197 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:22 Length: 116 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57164 
+Timestamp: 2023-10-28/15:58:22 Length: 140 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 35727 
+Timestamp: 2023-10-28/15:58:22 Length: 157 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 46197 
+Timestamp: 2023-10-28/15:58:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:26 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:28 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:30 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36152 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:30 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 43763 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:30 Length: 94 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 32777 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:30 Length: 110 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 43763 
+Timestamp: 2023-10-28/15:58:30 Length: 122 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36152 
+Timestamp: 2023-10-28/15:58:30 Length: 151 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 32777 
+Timestamp: 2023-10-28/15:58:31 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:33 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:37 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/15:58:37 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:58:38 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:43 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:58:43 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:58:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:47 Length: 46 Source MAC: 30:d3:2d:bf:80:56 Destination MAC: 1:0:5e:0:0:1 Source IP: 0.0.0.0 Destination IP: 224.0.0.1 TTL: 1 
+Timestamp: 2023-10-28/15:58:47 Length: 86 Source MAC: 30:d3:2d:bf:80:56 Destination MAC: 33:33:0:0:0:1 
+Timestamp: 2023-10-28/15:58:47 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:bb:97:15 
+Timestamp: 2023-10-28/15:58:48 Length: 169 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:58:48 Length: 189 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:58:48 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:43:1b:e6 
+Timestamp: 2023-10-28/15:58:48 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/15:58:48 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:58:48 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:58:48 Length: 78 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:58:49 Length: 169 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:58:49 Length: 189 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:58:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:51 Length: 169 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:58:51 Length: 189 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:58:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:52 Length: 46 Source MAC: 74:ee:2a:1e:64:66 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.10 Destination IP: 224.0.0.251 TTL: 1 
+Timestamp: 2023-10-28/15:58:54 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:55 Length: 169 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 255 Source Port (UDP): 5353 Destination Port (UDP): 5353 
+Timestamp: 2023-10-28/15:58:55 Length: 189 Source MAC: b6:de:f7:4f:d7:77 Destination MAC: 33:33:0:0:0:fb 
+Timestamp: 2023-10-28/15:58:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:56 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:58:58 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 59921 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:58 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47054 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:58 Length: 87 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 60345 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:58 Length: 115 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 59921 
+Timestamp: 2023-10-28/15:58:58 Length: 88 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 41666 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:58:58 Length: 103 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47054 
+Timestamp: 2023-10-28/15:58:58 Length: 167 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 60345 
+Timestamp: 2023-10-28/15:58:58 Length: 145 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 41666 
+Timestamp: 2023-10-28/15:58:59 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:00 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:01 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:59:03 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:59:03 Length: 42 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:59:03 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:59:04 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:05 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:05 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49725 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:05 Length: 110 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 57599 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:05 Length: 206 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49725 
+Timestamp: 2023-10-28/15:59:05 Length: 100 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 36436 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:05 Length: 184 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 36436 
+Timestamp: 2023-10-28/15:59:05 Length: 255 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 57599 
+Timestamp: 2023-10-28/15:59:06 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:09 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:10 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:11 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:13 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:13 Length: 86 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: 33:33:ff:b9:cd:a4 
+Timestamp: 2023-10-28/15:59:13 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:59:14 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:16 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:18 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:18 Length: 86 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 
+Timestamp: 2023-10-28/15:59:18 Length: 78 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 
+Timestamp: 2023-10-28/15:59:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 34283 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 47994 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 50820 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 40023 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 91 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56205 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 99 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 52173 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 95 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 60670 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 41610 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 56346 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 49307 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:19 Length: 112 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 41610 
+Timestamp: 2023-10-28/15:59:19 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 50820 
+Timestamp: 2023-10-28/15:59:19 Length: 152 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 60670 
+Timestamp: 2023-10-28/15:59:19 Length: 127 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 47994 
+Timestamp: 2023-10-28/15:59:19 Length: 137 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 40023 
+Timestamp: 2023-10-28/15:59:19 Length: 156 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 52173 
+Timestamp: 2023-10-28/15:59:19 Length: 149 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 34283 
+Timestamp: 2023-10-28/15:59:19 Length: 178 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56205 
+Timestamp: 2023-10-28/15:59:19 Length: 100 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 56346 
+Timestamp: 2023-10-28/15:59:19 Length: 141 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 49307 
+Timestamp: 2023-10-28/15:59:19 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:20 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:23 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 48294 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:23 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 33331 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:23 Length: 84 Source MAC: dc:1b:a1:79:65:85 Destination MAC: 8c:97:ea:37:1d:34 Source IP: 192.168.1.192 Destination IP: 192.168.1.254 TTL: 64 Source Port (UDP): 41825 Destination Port (UDP): 53 
+Timestamp: 2023-10-28/15:59:23 Length: 140 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 48294 
+Timestamp: 2023-10-28/15:59:23 Length: 157 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 41825 
+Timestamp: 2023-10-28/15:59:23 Length: 116 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: dc:1b:a1:79:65:85 Source IP: 192.168.1.254 Destination IP: 192.168.1.192 TTL: 64 Source Port (UDP): 53 Destination Port (UDP): 33331 
+Timestamp: 2023-10-28/15:59:24 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:25 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:26 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:29 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:30 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:31 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:32 Length: 60 Source MAC: 0:e0:99:8:fe:78 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 64 Source Port (TCP): 12345 Destination Port (TCP): 8080 RST Flag: 1 SYN Flag: 0 ACK Flag: 0 FIN Flag: 0 
+Timestamp: 2023-10-28/15:59:34 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:35 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:36 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:39 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:40 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:41 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:44 Length: 60 Source MAC: 0:e0:99:8:fe:78 Destination MAC: 1:0:5e:0:0:fb Source IP: 192.168.1.60 Destination IP: 224.0.0.251 TTL: 64 Source Port (TCP): 12345 Destination Port (TCP): 8080 RST Flag: 1 SYN Flag: 0 ACK Flag: 0 FIN Flag: 0 
+Timestamp: 2023-10-28/15:59:44 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:45 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:46 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:49 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:50 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:51 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:53 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 
+Timestamp: 2023-10-28/15:59:55 Length: 64 Source MAC: 8c:97:ea:37:1d:34 Destination MAC: ff:ff:ff:ff:ff:ff 

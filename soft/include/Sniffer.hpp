@@ -39,6 +39,11 @@
             std::string getIcmpType(struct icmphdr *icmpHeader) const;
             int getTTL(struct ip *ipHeader) const;
 
+            int getRSTflag(struct tcphdr *tcpHeader) const;
+            int getSYNflag(struct tcphdr *tcpHeader) const;
+            int getACKflag(struct tcphdr *tcpHeader) const;
+            int getFINflag(struct tcphdr *tcpHeader) const;
+
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;
             void displayDevices();

@@ -55,10 +55,14 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
             packet.setSrcPortTCP(sniffer.getPortTCP(tcpHeader, 0));
             logLine << "Destination Port (TCP): " << sniffer.getPortTCP(tcpHeader, 1) << " ";
             packet.setDstPortTCP(sniffer.getPortTCP(tcpHeader, 1));
-            if (tcpHeader->rst && !(tcpHeader->syn) && !(tcpHeader->fin)) {
-                logLine << "RST Flag: " << tcpHeader->rst << " ";
-                packet.setRSTflag(std::to_string(tcpHeader->rst));
-            }
+            logLine << "RST_Flag: " << sniffer.getRSTflag(tcpHeader) << " ";
+            packet.setRSTflag(sniffer.getRSTflag(tcpHeader));
+            logLine << "SYN_Flag: " << sniffer.getSYNflag(tcpHeader) << " ";
+            packet.setSYNflag(sniffer.getSYNflag(tcpHeader));
+            logLine << "ACK_Flag: " << sniffer.getACKflag(tcpHeader) << " ";
+            packet.setACKflag(sniffer.getACKflag(tcpHeader));
+            logLine << "FIN_Flag: " << sniffer.getFINflag(tcpHeader) << " ";
+            packet.setFINflag(sniffer.getFINflag(tcpHeader));
         } else if (ipHeader->ip_p == IPPROTO_UDP) {
             struct udphdr *udpHeader = (struct udphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
             logLine << "Source Port (UDP): " << sniffer.getPortUDP(udpHeader, 0) << " ";
