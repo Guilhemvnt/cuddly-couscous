@@ -22,6 +22,7 @@ void signalHandler(int signum) {
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
     std::ostringstream logLine;
     Packet packet;
+    Packet *Ppacket;
 
     logLine << "Timestamp: " << sniffer.getTimestamp() << " ";
     packet.setTimeStamp(sniffer.getTimestamp());
@@ -97,7 +98,7 @@ int startingUp(char *device_name)
         sniffer.displayDevices();
         land.displayPackets();
         //parser.displayPackets();
-        return 1;
+        return 0;
     }
 
     while (!shouldExit) {
