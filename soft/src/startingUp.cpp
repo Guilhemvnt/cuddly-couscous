@@ -99,7 +99,7 @@ int startingUp(char *device_name)
 
     if (handle == nullptr) {
         sniffer.displayDevices();
-        land.displayPackets();
+        //land.displayPackets();
         //parser.displayPackets();
         return 0;
     }
@@ -107,11 +107,11 @@ int startingUp(char *device_name)
     while (!shouldExit) {
         ncursesGUI.draw();
         ncursesGUI.handleInput();
-
-        // if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
-        //     std::cout << "Error in pcap_dispatch" << std::endl;
-        //     break;
-        // }
+        ncursesGUI.update();
+        if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
+            std::cout << "Error in pcap_dispatch" << std::endl;
+            break;
+        }
     }
     ncursesGUI.close();
     pcap_close(handle);

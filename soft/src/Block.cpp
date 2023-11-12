@@ -43,7 +43,7 @@ void Block::setBorderSize(int borderSize)
     this->borderSize = borderSize;
 }
 
-std::vector<int> Block::getSize()
+std::vector<int> Block::getSize() const
 {
     std::vector<int> size;
 
@@ -52,7 +52,7 @@ std::vector<int> Block::getSize()
     return (size);
 }
 
-std::vector<int> Block::getPos()
+std::vector<int> Block::getPos() const
 {
     std::vector<int> pos;
 
@@ -61,7 +61,7 @@ std::vector<int> Block::getPos()
     return (pos);
 }
 
-std::vector<int> Block::getBorderSize()
+std::vector<int> Block::getBorderSize() const
 {
     std::vector<int> borderSize;
 
@@ -69,3 +69,14 @@ std::vector<int> Block::getBorderSize()
     borderSize.push_back(this->borderSize);
     return (borderSize);
 }
+
+void Block::setContent(std::string key, std::string value)
+{
+    this->mapContent[key] = value;
+}
+
+std::map<std::string, std::string> Block::getContent() const
+{
+    return (this->mapContent);
+}
+
