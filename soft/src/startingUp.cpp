@@ -11,6 +11,8 @@ Sniffer sniffer;
 PacketParser parser;
 LAND land;
 TTL ttl;
+NcursesGUI ncursesGUI;
+
 
 void signalHandler(int signum) {
     if (signum == SIGINT) {
@@ -22,7 +24,6 @@ void signalHandler(int signum) {
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
     std::ostringstream logLine;
     Packet packet;
-    Packet *Ppacket;
 
     logLine << "Timestamp: " << sniffer.getTimestamp() << " ";
     packet.setTimeStamp(sniffer.getTimestamp());
@@ -92,6 +93,8 @@ int startingUp(char *device_name)
 
     pcap_t *handle = pcap_open_live(device_name, BUFSIZ, 1, 1000, errbuf);
 
+    ncursesGUI.init();
+
     signal(SIGINT, signalHandler);
 
     if (handle == nullptr) {
@@ -102,11 +105,14 @@ int startingUp(char *device_name)
     }
 
     while (!shouldExit) {
-        if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
-            std::cout << "Error in pcap_dispatch" << std::endl;
-            break;
-        }
+        ncursesGUI.draw();
+        ncursesGUI.handleInput();
 
+        // if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
+        //     std::cout << "Error in pcap_dispatch" << std::endl;
+        //     break;
+        // }
     }
+    ncursesGUI.close();
     pcap_close(handle);
 }
