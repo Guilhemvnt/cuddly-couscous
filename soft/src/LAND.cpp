@@ -34,7 +34,7 @@ void LAND::analysePackets(Packet packet)
     if (packet.getSrcIp() != "<>" && packet.getDstIp() != "<>")
         if (packet.getDstIp() == packet.getSrcIp() && packet.getDstPortTCP() == packet.getSrcPortTCP()) {
             addPacket(packet);
-            std::cout << "LAND attack detected" << std::endl;
+            //std::cout << "LAND attack detected" << std::endl;
         } else {
             return;
         }

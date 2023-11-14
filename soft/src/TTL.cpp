@@ -33,7 +33,7 @@ void TTL::analysePackets(Packet packet)
 {
     if(packet.getTTL() <= 5 && packet.getTTL() >= 0) {
         addPacket(packet);
-        std::cout << "TTL attack detected" << std::endl;
+        //std::cout << "TTL attack detected" << std::endl;
     } else
         return;
     return;

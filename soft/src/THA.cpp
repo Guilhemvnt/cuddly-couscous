@@ -35,7 +35,7 @@ void THA::analysePackets(Packet packet)
 {
     if (packet.getRSTflag() == 0 && packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) {
         addPacket(packet);
-        std::cout << "THA attack detected" << std::endl;
+        //std::cout << "THA attack detected" << std::endl;
     } else {
         return;
     }

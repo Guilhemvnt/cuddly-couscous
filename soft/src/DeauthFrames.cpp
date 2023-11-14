@@ -25,8 +25,8 @@ std::vector<Packet> DeauthFrames::getPackets(void)
 
 void DeauthFrames::displayPackets(void)
 {
-    for (auto packet : _packets)
-        std::cout << &packet << std::endl;
+    for (auto packet : _packets) {}
+        //std::cout << &packet << std::endl;
 }
 
 void DeauthFrames::analysePackets(Packet packet)

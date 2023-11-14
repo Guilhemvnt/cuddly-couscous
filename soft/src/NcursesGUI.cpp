@@ -5,6 +5,7 @@
 */
 
 #include "NcursesGUI.hpp"
+#include <string>
 
 NcursesGUI::NcursesGUI()
 {
@@ -37,8 +38,6 @@ void NcursesGUI::init()
 
     arrayBlocks.push_back(factoryBlock.createBlock("large", std::vector<int>{windowPadding, 15}));
 
-    arrayBlocks[0].setContent("Unknown devices", "");
-
     for (int i = 1; i < 7; i++) {
         arrayBlocks[i].setContent("Type:", "");
         arrayBlocks[i].setContent("Victim:", "");
@@ -50,7 +49,16 @@ void NcursesGUI::init()
 void NcursesGUI::handleInput() {
 }
 
-void NcursesGUI::update() {
+void NcursesGUI::update(Sniffer *sniffer) {
+    auto devices = sniffer->getDevices();
+    auto content = arrayBlocks[0].getContent();
+
+    if (!devices.empty()) {
+        for (const auto& device : devices) {
+            arrayBlocks[0].setContent(std::to_string(device.size()), device);
+        }
+    }
+    refresh();
 }
 
 void NcursesGUI::clear() {
@@ -154,4 +162,14 @@ void NcursesGUI::drawContent(Block block)
         mvprintw(contentY, contentX + key.size() + 1, "%s", value.c_str());
         contentY++;
     }
+    int i = 0;
+    // Assuming arrayBlocks is a std::map<std::string, std::string>
+    for (const auto& entry : arrayBlocks[0].getContent()) {
+        i ++;
+        mvprintw(arrayBlocks[0].getPos()[1] + 1, arrayBlocks[0].getPos()[0] + i, "%s", entry.second.c_str());
+    }
+
+    refresh();  // Refresh the display after printing
+
+
 }

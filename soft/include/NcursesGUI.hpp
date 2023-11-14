@@ -25,7 +25,7 @@ class NcursesGUI : public virtual IGUI {
         void init();
         void draw();
         void handleInput();
-        void update();
+        void update(Sniffer *sniffer);
         void clear();
         void refresh();
         void close();

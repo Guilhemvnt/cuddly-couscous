@@ -107,7 +107,7 @@ int startingUp(char *device_name)
     while (!shouldExit) {
         ncursesGUI.draw();
         ncursesGUI.handleInput();
-        ncursesGUI.update();
+        ncursesGUI.update(&sniffer);
         if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
             std::cout << "Error in pcap_dispatch" << std::endl;
             break;

@@ -74,7 +74,7 @@ void Sniffer::setDevice(std::string device) {
         }
     }
     this->devices.push_back(device);
-    std::cout << "Device added: " << device << std::endl;
+    //std::cout << "Device added: " << device << std::endl;
 }
 
 std::vector<std::string> Sniffer::getDevices() const
