@@ -29,7 +29,7 @@
             Sniffer();
             ~Sniffer();
 
-            const char *getTimestamp() const;
+            std::string getTimestamp() const;
             int getLength(const pcap_pkthdr *pkthdr) const;
 
             char *getMac(struct ethhdr *ethHeader, int dest) const;

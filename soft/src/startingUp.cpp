@@ -9,14 +9,21 @@
 volatile bool shouldExit = false;
 Sniffer sniffer;
 PacketParser parser;
-LAND land;
-TTL ttl;
+
+std::vector<IAttacks *> attacks = {
+    new DeauthFrames(),
+    new LAND(),
+    new TCH(),
+    new THA(),
+    new TTL()
+};
+
 NcursesGUI ncursesGUI;
 
 
 void signalHandler(int signum) {
     if (signum == SIGINT) {
-        std::cout << "Capture terminated by user (Ctrl+C)." << std::endl;
+        //std::cout << "Capture terminated by user (Ctrl+C)." << std::endl;
         shouldExit = true;
     }
 }
@@ -74,14 +81,13 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
         }
     }
     std::ofstream outputFile("logs/packet_logs.txt", std::ios::app | std::ios::out);
+    attacks[0]->analysePackets(packet);
     if (!outputFile.is_open()) {
         std::cerr << "Failed to open the output file." << std::endl;
         return;
     }
 
     outputFile << std::endl << logLine.str();
-    land.analysePackets(packet); //analysePackets
-    ttl.analysePackets(packet);
     parser.parsePacket(logLine.str());
     outputFile.close();
 }
@@ -98,7 +104,7 @@ int startingUp(char *device_name)
     signal(SIGINT, signalHandler);
 
     if (handle == nullptr) {
-        sniffer.displayDevices();
+        //sniffer.displayDevices();
         //land.displayPackets();
         //parser.displayPackets();
         return 0;
@@ -113,6 +119,11 @@ int startingUp(char *device_name)
             break;
         }
     }
+    for (auto attack : attacks) {
+        delete attack;
+    }
+    attacks.clear();
+
     ncursesGUI.close();
     pcap_close(handle);
 }

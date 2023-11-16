@@ -22,6 +22,7 @@
             std::vector<Packet> getPackets(void);
             void displayPackets(void);
             void analysePackets(Packet);
+            std::string getName(void) const { return "LAND"; };
     };
 
 #endif /* !LAND_HPP_ */

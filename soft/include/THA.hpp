@@ -20,6 +20,7 @@
             std::vector<Packet> getPackets(void);
             void displayPackets(void);
             void analysePackets(Packet packet);
+            std::string getName(void) const { return "TCP Handshake Abnormalities"; };
         private:
     };
 

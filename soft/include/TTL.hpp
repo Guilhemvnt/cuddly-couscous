@@ -21,6 +21,7 @@
             std::vector<Packet> getPackets(void);
             void displayPackets(void);
             void analysePackets(Packet);
+            std::string getName(void) const { return "IP time to live"; };
     };
 
 #endif /* !TTL_HPP_ */

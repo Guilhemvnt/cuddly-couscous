@@ -14,17 +14,18 @@ Sniffer::~Sniffer()
 {
 }
 
-const char *Sniffer::getTimestamp() const {
+std::string Sniffer::getTimestamp() const {
     std::time_t timestamp = std::time(nullptr);
-    char *timeStr = new char[100];
+    char timeStr[100];
 
-    if (timeStr != nullptr) {
-        strftime(timeStr, 100, "%Y-%m-%d/%H:%M:%S", std::localtime(&timestamp));
+    if (strftime(timeStr, 100, "%Y-%m-%d/%H:%M:%S", std::localtime(&timestamp)) > 0) {
+        return timeStr;
     } else {
-        return "Allocation failed";
+        // Handle strftime failure gracefully, e.g., return an empty string.
+        return "";
     }
-    return timeStr;
 }
+
 
 int Sniffer::getLength(const pcap_pkthdr *pkthdr) const
 {

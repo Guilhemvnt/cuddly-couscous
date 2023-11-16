@@ -15,19 +15,26 @@ NcursesGUI::~NcursesGUI()
 {
 }
 
-void NcursesGUI::init()
-{
-    initscr();
+void NcursesGUI::init() {
+    if (initscr() == nullptr) {
+        // Handle initialization error
+        throw std::runtime_error("Error initializing Ncurses");
+    }
+
     noecho();
     curs_set(FALSE);
     keypad(stdscr, TRUE);
-    start_color();
+
+    if (start_color() == ERR) {
+        endwin();
+        throw std::runtime_error("Error initializing colors");
+    }
+
     init_pair(1, COLOR_WHITE, COLOR_BLACK);
     init_pair(2, COLOR_GREEN, COLOR_BLACK);
     init_pair(3, COLOR_RED, COLOR_BLACK);
     int windowPadding = 2;
 
-    // Create your GUI components here
     arrayBlocks.push_back(factoryBlock.createBlock("medium", std::vector<int>{windowPadding, 5}));
 
     for (auto block : factoryBlock.createRowsBlock("small", std::vector<int>{25 + windowPadding, 5}, 3))
@@ -45,20 +52,17 @@ void NcursesGUI::init()
     }
 }
 
-
 void NcursesGUI::handleInput() {
 }
 
 void NcursesGUI::update(Sniffer *sniffer) {
     auto devices = sniffer->getDevices();
-    auto content = arrayBlocks[0].getContent();
 
     if (!devices.empty()) {
         for (const auto& device : devices) {
-            arrayBlocks[0].setContent(std::to_string(device.size()), device);
+            arrayBlocks[0].setContent(std::to_string(devices.size()), device);
         }
     }
-    refresh();
 }
 
 void NcursesGUI::clear() {
@@ -88,13 +92,14 @@ void drawSquare()
             mvprintw(start_y + i, start_x + j, " ");  // Afficher un espace à la position spécifiée
         }
     }
-    attroff(COLOR_PAIR(1));  // Désactiver la paire de couleurs
+    attroff(COLOR_PAIR(2));  // Désactiver la paire de couleurs
 }
+
 
 void NcursesGUI::draw() {
     clear();
-    // Draw your GUI components here
     mvprintw(1, 1, "Network Intrusion Detection System GUI cuddly-couscous");
+    mvprintw(2, 1, "CTRL+C to exit");
     mvprintw(3, 1, "------------------------------------------------------------------------------------------------------");
 
     drawBlocks(arrayBlocks);
@@ -135,7 +140,7 @@ void NcursesGUI::drawBlock(Block block) {
     wattroff(stdscr, COLOR_PAIR(1));
 }
 
-void NcursesGUI::drawBlocks(std::vector<Block> arrayBlocks) {
+void NcursesGUI::drawBlocks(std::vector<Block>& arrayBlocks) {
     for (size_t i = 0; i < arrayBlocks.size(); ++i) {
         drawBlock(arrayBlocks[i]);
         drawContent(arrayBlocks[i]);
@@ -163,12 +168,10 @@ void NcursesGUI::drawContent(Block block)
         contentY++;
     }
     int i = 0;
-    // Assuming arrayBlocks is a std::map<std::string, std::string>
     for (const auto& entry : arrayBlocks[0].getContent()) {
+        mvprintw(arrayBlocks[0].getPos()[1] + i + 1, arrayBlocks[0].getPos()[0] + 1, "%s", entry.second.c_str());
         i ++;
-        mvprintw(arrayBlocks[0].getPos()[1] + 1, arrayBlocks[0].getPos()[0] + i, "%s", entry.second.c_str());
-    }
-
+    };
     refresh();  // Refresh the display after printing
 
 

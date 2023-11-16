@@ -14,11 +14,12 @@
 
     class IAttacks {
         public:
-            virtual ~IAttacks(void) = default;
+            virtual ~IAttacks() = default;
             virtual void addPacket(Packet) = 0;
             virtual std::vector<Packet> getPackets(void) = 0;
             virtual void displayPackets(void) = 0;
             virtual void analysePackets(Packet) = 0;
+            virtual std::string getName(void) const  = 0;
     };
 
 #endif /* !IATTACKS_HPP_ */

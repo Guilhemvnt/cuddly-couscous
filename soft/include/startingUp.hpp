@@ -12,11 +12,16 @@
     #include <pcap.h>
     #include <csignal>
     #include <memory>
+    #include <vector>
 
     #include "Sniffer.hpp"
     #include "PacketParser.hpp"
+    #include "DeauthFrames.hpp"
     #include "TTL.hpp"
     #include "LAND.hpp"
+    #include "TCH.hpp"
+    #include "THA.hpp"
+    #include "TTL.hpp"
     #include "NcursesGUI.hpp"
 
     int startingUp(char *device_name);
