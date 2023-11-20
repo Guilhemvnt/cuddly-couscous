@@ -9,16 +9,14 @@
 volatile bool shouldExit = false;
 Sniffer sniffer;
 PacketParser parser;
-
-std::vector<IAttacks *> attacks = {
-    new DeauthFrames(),
-    new LAND(),
-    new TCH(),
-    new THA(),
-    new TTL()
-};
-
 NcursesGUI ncursesGUI;
+IAttacks* array[] = {
+    new LAND(),
+    new TTL(),
+    new THA(),
+    new TCH(),
+    new DeauthFrames(),    
+};
 
 
 void signalHandler(int signum) {
@@ -81,13 +79,15 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
         }
     }
     std::ofstream outputFile("logs/packet_logs.txt", std::ios::app | std::ios::out);
-    attacks[0]->analysePackets(packet);
     if (!outputFile.is_open()) {
         std::cerr << "Failed to open the output file." << std::endl;
         return;
     }
 
     outputFile << std::endl << logLine.str();
+    for (auto atk : array) {
+        atk->analysePackets(packet);
+    }
     parser.parsePacket(logLine.str());
     outputFile.close();
 }
@@ -100,30 +100,21 @@ int startingUp(char *device_name)
     pcap_t *handle = pcap_open_live(device_name, BUFSIZ, 1, 1000, errbuf);
 
     ncursesGUI.init();
-
     signal(SIGINT, signalHandler);
-
+    
     if (handle == nullptr) {
-        //sniffer.displayDevices();
-        //land.displayPackets();
-        //parser.displayPackets();
         return 0;
     }
 
     while (!shouldExit) {
         ncursesGUI.draw();
         ncursesGUI.handleInput();
-        ncursesGUI.update(&sniffer);
+        ncursesGUI.update(&sniffer, array);
         if (pcap_dispatch(handle, 0, packetHandler, NULL) < 0) {
             std::cout << "Error in pcap_dispatch" << std::endl;
             break;
         }
     }
-    for (auto attack : attacks) {
-        delete attack;
-    }
-    attacks.clear();
-
     ncursesGUI.close();
     pcap_close(handle);
 }

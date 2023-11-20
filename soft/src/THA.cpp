@@ -9,6 +9,8 @@
 
 THA::THA()
 {
+    Packet packet = Packet();
+    addPacket(packet);
 }
 
 THA::~THA()

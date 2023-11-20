@@ -20,6 +20,9 @@
             virtual void displayPackets(void) = 0;
             virtual void analysePackets(Packet) = 0;
             virtual std::string getName(void) const  = 0;
+
+        protected:
+        private:
     };
 
 #endif /* !IATTACKS_HPP_ */

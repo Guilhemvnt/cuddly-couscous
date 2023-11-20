@@ -8,6 +8,8 @@
 
 LAND::LAND()
 {
+    Packet packet = Packet();
+    addPacket(packet);
 }
 
 LAND::~LAND()
@@ -21,6 +23,7 @@ void LAND::addPacket(Packet packet)
 
 std::vector<Packet> LAND::getPackets(void)
 {
+    return _packets;
 }
 
 void LAND::displayPackets(void)

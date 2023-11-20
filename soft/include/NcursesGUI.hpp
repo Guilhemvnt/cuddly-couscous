@@ -29,7 +29,7 @@
             void init();
             void draw();
             void handleInput();
-            void update(Sniffer *sniffer);
+            void update(Sniffer *sniffer, IAttacks *array[]);
             void clear();
             void refresh();
             void close();

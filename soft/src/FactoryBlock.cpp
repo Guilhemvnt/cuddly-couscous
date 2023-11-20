@@ -10,7 +10,7 @@ FactoryBlock::FactoryBlock()
 {
     mapSize = {
         {"small", std::vector<int>{25, 5}},
-        {"medium", std::vector<int>{25, 10}},
+        {"medium", std::vector<int>{25, 20}},
         {"large", std::vector<int>{100, 10}}
     };
 }

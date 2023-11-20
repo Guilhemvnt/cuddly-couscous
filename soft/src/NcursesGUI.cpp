@@ -43,8 +43,6 @@ void NcursesGUI::init() {
     for (auto block : factoryBlock.createRowsBlock("small", std::vector<int>{25 + windowPadding, 10}, 3))
         arrayBlocks.push_back(block);
 
-    arrayBlocks.push_back(factoryBlock.createBlock("large", std::vector<int>{windowPadding, 15}));
-
     for (int i = 1; i < 7; i++) {
         arrayBlocks[i].setContent("Type:", "");
         arrayBlocks[i].setContent("Victim:", "");
@@ -55,15 +53,23 @@ void NcursesGUI::init() {
 void NcursesGUI::handleInput() {
 }
 
-void NcursesGUI::update(Sniffer *sniffer) {
+void NcursesGUI::update(Sniffer *sniffer, IAttacks *array[]) {
     auto devices = sniffer->getDevices();
+    int i = 0;
 
     if (!devices.empty()) {
-        for (const auto& device : devices) {
+        for (const auto& device : devices)
             arrayBlocks[0].setContent(std::to_string(devices.size()), device);
+
+        while (array[i] != nullptr) {
+            arrayBlocks[i + 1].setContent("Type:", array[i]->getName());
+            arrayBlocks[i + 1].setContent("Victim:", array[i]->getPackets().back().getSrcIp());
+            arrayBlocks[i + 1].setContent("From", array[i]->getPackets().back().getDstIp());
+            i++;
         }
-    }
-}
+    }     
+}       
+
 
 void NcursesGUI::clear() {
     erase();
@@ -103,7 +109,6 @@ void NcursesGUI::draw() {
     mvprintw(3, 1, "------------------------------------------------------------------------------------------------------");
 
     drawBlocks(arrayBlocks);
-    drawSquare();
     refresh();
 }
 

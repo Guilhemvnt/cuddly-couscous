@@ -8,6 +8,8 @@
 
 TCH::TCH()
 {
+    Packet packet = Packet();
+    addPacket(packet);
 }
 
 TCH::~TCH()

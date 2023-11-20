@@ -8,6 +8,8 @@
 
 TTL::TTL()
 {
+    Packet packet = Packet();
+    addPacket(packet);
 }
 
 TTL::~TTL()
@@ -21,6 +23,7 @@ void TTL::addPacket(Packet packet)
 
 std::vector<Packet> TTL::getPackets(void)
 {
+    return _packets;
 }
 
 void TTL::displayPackets(void)

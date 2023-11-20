@@ -8,6 +8,8 @@
 
 DeauthFrames::DeauthFrames()
 {
+    Packet packet = Packet();
+    addPacket(packet);
 }
 
 DeauthFrames::~DeauthFrames()
@@ -21,6 +23,7 @@ void DeauthFrames::addPacket(Packet packet)
 
 std::vector<Packet> DeauthFrames::getPackets(void)
 {
+    return _packets;
 }
 
 void DeauthFrames::displayPackets(void)
@@ -36,4 +39,9 @@ void DeauthFrames::analysePackets(Packet packet)
     } else
         return;
     return;
+}
+
+std::string DeauthFrames::getName(void) const
+{
+    return std::string("DeauthFrames");
 }

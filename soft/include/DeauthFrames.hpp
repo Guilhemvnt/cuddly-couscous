@@ -21,6 +21,6 @@
             std::vector<Packet> getPackets(void);
             void displayPackets(void);
             void analysePackets(Packet);
-            std::string getName(void) const { return "DeauthFrames"; };
+            std::string getName(void) const;
     };
 #endif /* !DEAUTHFRAMES_HPP_ */
