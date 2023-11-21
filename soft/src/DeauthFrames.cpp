@@ -25,7 +25,7 @@ std::vector<Packet> DeauthFrames::getPackets(void)
 {
     std::vector<Packet> largestVector;
     for (const auto& pair : _map) {
-        if (pair.second.size() > largestVector.size()&& pair.first != "<>") {
+        if (pair.second.size() > largestVector.size() && pair.first != "<>") {
             largestVector = pair.second;
         }
     }

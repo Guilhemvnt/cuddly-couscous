@@ -67,7 +67,7 @@ void NcursesGUI::update(Sniffer *sniffer, IAttacks *array[]) {
 
         while (array[i] != nullptr) {
             arrayBlocks[i + 1].setContent("Type:", array[i]->getName());
-            if (array[i]->getPackets().size() > 10) {
+            if (array[i]->getPackets().size() > 1) {
                 arrayBlocks[i + 1].setContent("Victim:", array[i]->getPackets().front().getSrcIp());
                 arrayBlocks[i + 1].setContent("From", array[i]->getPackets().front().getDstIp());
             }
