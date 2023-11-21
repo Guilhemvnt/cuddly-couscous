@@ -58,18 +58,23 @@ void NcursesGUI::update(Sniffer *sniffer, IAttacks *array[]) {
     int i = 0;
 
     if (!devices.empty()) {
-        for (const auto& device : devices)
+        for (const auto& device : devices) {
+            if(arrayBlocks[0].getContent().size() > 19) {
+                arrayBlocks[0].getContent();
+            }
             arrayBlocks[0].setContent(std::to_string(devices.size()), device);
+        }
 
         while (array[i] != nullptr) {
             arrayBlocks[i + 1].setContent("Type:", array[i]->getName());
-            arrayBlocks[i + 1].setContent("Victim:", array[i]->getPackets().back().getSrcIp());
-            arrayBlocks[i + 1].setContent("From", array[i]->getPackets().back().getDstIp());
+            if (array[i]->getPackets().size() > 10) {
+                arrayBlocks[i + 1].setContent("Victim:", array[i]->getPackets().front().getSrcIp());
+                arrayBlocks[i + 1].setContent("From", array[i]->getPackets().front().getDstIp());
+            }
             i++;
         }
     }     
 }       
-
 
 void NcursesGUI::clear() {
     erase();
@@ -177,7 +182,5 @@ void NcursesGUI::drawContent(Block block)
         mvprintw(arrayBlocks[0].getPos()[1] + i + 1, arrayBlocks[0].getPos()[0] + 1, "%s", entry.second.c_str());
         i ++;
     };
-    refresh();  // Refresh the display after printing
-
-
+    refresh();
 }

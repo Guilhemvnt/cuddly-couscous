@@ -1,8 +1,7 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
-** THA
+** TCP Hadnshake Abnormalities
 */
 
 #include "THA.hpp"
@@ -19,12 +18,18 @@ THA::~THA()
 
 void THA::addPacket(Packet packet)
 {
-    _packets.push_back(packet);
+    _map[packet.getSrcIp()].push_back(packet);
 }
 
 std::vector<Packet> THA::getPackets(void)
 {
-    return _packets;
+    std::vector<Packet> largestVector;
+    for (const auto& pair : _map) {
+        if (pair.second.size() > largestVector.size() && pair.first != "<>") {
+            largestVector = pair.second;
+        }
+    }
+    return largestVector;
 }
 
 void THA::displayPackets(void)
@@ -35,9 +40,12 @@ void THA::displayPackets(void)
 
 void THA::analysePackets(Packet packet)
 {
-    if (packet.getRSTflag() == 0 && packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) {
+    if (
+        (packet.getRSTflag() == 0 && packet.getSYNflag() == 1 && packet.getACKflag() == 0 && packet.getFINflag() == 0) ||
+        (packet.getRSTflag() == 0 && packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 1) ||
+        (packet.getFINflag() >= 2)
+    ) {
         addPacket(packet);
-        //std::cout << "THA attack detected" << std::endl;
     } else {
         return;
     }

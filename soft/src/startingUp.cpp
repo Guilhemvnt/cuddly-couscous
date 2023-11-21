@@ -15,7 +15,7 @@ IAttacks* array[] = {
     new TTL(),
     new THA(),
     new TCH(),
-    new DeauthFrames(),    
+    new DeauthFrames(),   
 };
 
 

@@ -13,6 +13,7 @@
         private:
         protected:
             std::vector<Packet> _packets;
+            std::map<std::string, std::vector<Packet>> _map;
         public:
             DeauthFrames(void);
             ~DeauthFrames(void);

@@ -18,18 +18,25 @@ DeauthFrames::~DeauthFrames()
 
 void DeauthFrames::addPacket(Packet packet)
 {
-    _packets.push_back(packet);
+    _map[packet.getSrcIp()].push_back(packet);
 }
 
 std::vector<Packet> DeauthFrames::getPackets(void)
 {
-    return _packets;
+    std::vector<Packet> largestVector;
+    for (const auto& pair : _map) {
+        if (pair.second.size() > largestVector.size()&& pair.first != "<>") {
+            largestVector = pair.second;
+        }
+    }
+    return largestVector;
 }
 
 void DeauthFrames::displayPackets(void)
 {
-    for (auto packet : _packets) {}
-        //std::cout << &packet << std::endl;
+    for (auto packet : _packets) {
+        std::cout << &packet << std::endl;
+    }
 }
 
 void DeauthFrames::analysePackets(Packet packet)

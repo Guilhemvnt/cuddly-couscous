@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** Block

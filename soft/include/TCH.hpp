@@ -1,5 +1,4 @@
 /*
-** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
 ** TCH (TCP Connection Hijacking)
@@ -12,6 +11,7 @@
     class TCH : public virtual IAttacks{
         protected:
             std::vector<Packet> _packets;
+            std::map<std::string, std::vector<Packet>> _map;
         public:
             TCH();
             ~TCH();
@@ -20,7 +20,7 @@
             std::vector<Packet> getPackets(void);
             void displayPackets(void);
             void analysePackets(Packet packet);
-            std::string getName(void) const { return "TCP Connection Hijacking"; };
+            std::string getName(void) const { return "TCP Hijacking"; };
     };
 
 #endif /* !TCH_HPP_ */

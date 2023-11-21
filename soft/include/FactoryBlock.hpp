@@ -14,6 +14,7 @@
     class FactoryBlock {
         public:
             std::map<std::string, std::vector<int>> mapSize;
+            
             FactoryBlock();
             ~FactoryBlock();
 

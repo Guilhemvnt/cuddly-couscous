@@ -18,12 +18,18 @@ TCH::~TCH()
 
 void TCH::addPacket(Packet packet)
 {
-    _packets.push_back(packet);
+    _map[packet.getSrcIp()].push_back(packet);
 }
 
 std::vector<Packet> TCH::getPackets(void)
 {
-    return (_packets);
+    std::vector<Packet> largestVector;
+    for (const auto& pair : _map) {
+        if (pair.second.size() > largestVector.size() && pair.first != "<>") {
+            largestVector = pair.second;
+        }
+    }
+    return largestVector;
 }
 
 void TCH::displayPackets(void)
@@ -34,9 +40,13 @@ void TCH::displayPackets(void)
 
 void TCH::analysePackets(Packet packet)
 {
-    if (packet.getRSTflag() == 0 && packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) {
+    if (
+        (packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) ||
+        (packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) ||
+        (packet.getRSTflag() == 1) ||
+        (packet.getFINflag() == 1)
+    ) {
         addPacket(packet);
-        //std::cout << "TCH attack detected" << std::endl;
     } else {
         return;
     }
