@@ -1,8 +1,4 @@
-Voici le texte transformé en format Markdown :
-
-```markdown
 # Dauth Frames
-
 ## Install mdk4
 - `sudo apt-get install mdk4`
 
@@ -54,4 +50,3 @@ Oui, il existe plusieurs plages d'adresses IP réservées à des utilisations sp
    - `169.254.0.0` à `169.254.255.255` est réservée pour l'auto-configuration d'adresses IP sur un réseau local en l'absence de serveur DHCP.
 
 Ces adresses IP réservées contribuent à organiser et à optimiser le fonctionnement d'Internet et des réseaux locaux en définissant des plages spécifiques pour des fins spécifiques.
-```
