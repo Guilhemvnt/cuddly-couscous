@@ -1,10 +1,6 @@
-# cuddly-couscous
-
-## Discover Network Traffic Analysis
+# cuddly-couscous IDS network
 
 ## Finding Deauthentication Attacks
-
-## ARP Spoofing & Abnormality Detection
 
 ## Finding Decoy Scanning Attempts
 
@@ -12,7 +8,6 @@ When analyzing network traffic, be vigilant for the following signs of decoy sca
 
 - Look for multiple instances of fragmented IP protocol in the Info field, as this could indicate an attack.
 - Check TCP traffic from legitimate source addresses.
-- Consider configuring your IDS/IPS/Firewall to act as the destination host to detect malicious activity.
 - Watch for connections initiated by one host and taken over by another, as attackers may reveal their true source address.
 
 ## Identifying Random Source Attacks
