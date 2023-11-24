@@ -1,14 +1,14 @@
-# Dauth Frames
-## Install mdk4
+## Dauth Frames
+### Install mdk4
 - `sudo apt-get install mdk4`
 
-## Setup an interface in monitor mode
+### Setup an interface in monitor mode
 - `sudo airmon-ng start <interface>`
 - If an error occurs, kill the process: `sudo airmon-ng check kill`
 - `iwconfig` should show a new interface: `<interface>mon`
 - The attack will be done on this interface
 
-## Execute Dauth Attack
+### Execute Dauth Attack
 - `sudo mdk4 <interface> d -w <file> -c <channel>`
   - `file`: WhiteList MAC address
   - `channel`: Channel of the AP (remove `-c <channel>` for an attack on all channels)
@@ -21,7 +21,8 @@
 - `ping -b <broadcast ip> -c <number of packets> <ip to ping>`
 - Or just `ping <ip>`
 
-# 224.0.0.251
+# IP adresse 
+## 224.0.0.251
 
 L'adresse IP 224.0.0.251 est une adresse IP multicast réservée à l'utilisation du protocole de découverte de services Zeroconf (Zero Configuration Networking), également connu sous le nom de mDNS (multicast DNS). Le mDNS permet aux appareils sur un réseau local de découvrir et de se connecter les uns aux autres sans configuration préalable. Cette adresse IP est utilisée pour la résolution de noms de domaine locaux sans avoir besoin d'un serveur DNS central.
 
