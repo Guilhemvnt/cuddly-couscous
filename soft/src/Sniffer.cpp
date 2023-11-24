@@ -121,3 +121,12 @@ int Sniffer::getFINflag(struct tcphdr *tcpHeader) const
     return tcpHeader->fin;
 }
 
+std::string Sniffer::getNetworkInterface() const
+{
+    return _networkInterface;
+}
+
+void Sniffer::setNetworkInterface(std::string networkInterface)
+{
+    _networkInterface = networkInterface;
+}

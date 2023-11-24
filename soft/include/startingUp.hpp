@@ -22,6 +22,7 @@
     #include "TCH.hpp"
     #include "THA.hpp"
     #include "TTL.hpp"
+    #include "SMURF.hpp"
     #include "NcursesGUI.hpp"
 
     int startingUp(char *device_name);

@@ -174,6 +174,15 @@ int Packet::getTTL() const
     return _TTL;
 }
 
+void Packet::setSubNetMask(const std::string& subNetMask)
+{
+    _subNetMask = subNetMask;
+}
+
+std::string Packet::getSubNetMask() const
+{
+    return _subNetMask;
+}
 
 // Path: soft/src/Parser.cpp
 

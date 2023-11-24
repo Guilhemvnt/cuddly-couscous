@@ -20,6 +20,7 @@
             std::string _srcIp = "<>";
             std::string _dstIp = "<>";
 
+            std::string _subNetMask = "<>";
             std::string _protocol = "<>";
 
             std::string _dstMAC = "<>";
@@ -50,6 +51,7 @@
 
             void setSrcIp(const std::string&);
             void setDstIp(const std::string&);
+            void setSubNetMask(const std::string&);
 
             void setProtocol(const std::string&);
             void setDstMAC(const std::string&);
@@ -74,6 +76,8 @@
 
             std::string getSrcIp() const;
             std::string getDstIp() const;
+
+            std::string getSubNetMask() const;
 
             std::string getDstMAC() const;
             std::string getSrcMAC() const;
@@ -101,7 +105,8 @@ inline std::ostream &operator<<(std::ostream &out, const Packet *packet) {
     << " Source Port TCP: " << packet->getSrcPortTCP() << " Destination Port TCP: "\
     << packet->getDstPortTCP() << " Source Port UDP: " << packet->getSrcPortUDP() << " Destination Port UDP: " << packet->getDstPortUDP()\
     << " RST Flag: " << packet->getRSTflag() << " SYN Flag: " << packet->getSYNflag() << " ACK Flag: " << packet->getACKflag() << " FIN Flag: " << packet->getFINflag()\
-    << " TTL: " << packet->getTTL();
+    << " TTL: " << packet->getTTL()
+    << " Subnet Mask: " << packet->getSubNetMask() << std::endl;
     return out;
 }
 

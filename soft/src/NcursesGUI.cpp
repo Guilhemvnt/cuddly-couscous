@@ -47,6 +47,7 @@ void NcursesGUI::init() {
         arrayBlocks[i].setContent("Type:", "");
         arrayBlocks[i].setContent("Victim:", "");
         arrayBlocks[i].setContent("From", "");
+        arrayBlocks[i].setContent("NB of packets", "");
     }
 }
 
@@ -59,10 +60,10 @@ void NcursesGUI::update(Sniffer *sniffer, IAttacks *array[]) {
 
     if (!devices.empty()) {
         for (const auto& device : devices) {
-            if(arrayBlocks[0].getContent().size() > 19) {
+            if(arrayBlocks[0].getContent().size() < 19) {
                 arrayBlocks[0].getContent();
+                arrayBlocks[0].setContent(std::to_string(devices.size()), device);
             }
-            arrayBlocks[0].setContent(std::to_string(devices.size()), device);
         }
 
         while (array[i] != nullptr) {
@@ -70,6 +71,7 @@ void NcursesGUI::update(Sniffer *sniffer, IAttacks *array[]) {
             if (array[i]->getPackets().size() > 1) {
                 arrayBlocks[i + 1].setContent("Victim:", array[i]->getPackets().front().getSrcIp());
                 arrayBlocks[i + 1].setContent("From", array[i]->getPackets().front().getDstIp());
+                arrayBlocks[i + 1].setContent("NB of packets", std::to_string(array[i]->getPackets().size()));
             }
             i++;
         }
@@ -166,7 +168,7 @@ void NcursesGUI::drawContent(Block block)
     int contentY = y + 1;
 
     std::map<std::string, std::string> content = block.getContent();
-    std::vector<std::string> displayOrder = {"Type:", "Victim:", "From"};
+    std::vector<std::string> displayOrder = {"Type:", "Victim:", "From", "NB of packets"};
 
     for (const auto &key : displayOrder) {
         if (content.find(key) == content.end())

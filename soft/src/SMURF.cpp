@@ -1,27 +1,29 @@
 /*
+** EPITECH PROJECT, 2023
 ** cuddly-couscous
 ** File description:
-** DeauthFrames
+** SMURF
 */
 
-#include "DeauthFrames.hpp"
+#include "SMURF.hpp"
+#include <arpa/inet.h>
 
-DeauthFrames::DeauthFrames()
+SMURF::SMURF()
 {
     Packet packet = Packet();
-    addPacket(packet);
+    addPacket(packet); 
 }
 
-DeauthFrames::~DeauthFrames()
+SMURF::~SMURF()
 {
 }
 
-void DeauthFrames::addPacket(Packet packet)
+void SMURF::addPacket(Packet packet)
 {
     _map[packet.getSrcIp()].push_back(packet);
 }
 
-std::vector<Packet> DeauthFrames::getPackets(void)
+std::vector<Packet> SMURF::getPackets(void)
 {
     std::vector<Packet> largestVector;
     for (const auto& pair : _map) {
@@ -32,23 +34,25 @@ std::vector<Packet> DeauthFrames::getPackets(void)
     return largestVector;
 }
 
-void DeauthFrames::displayPackets(void)
+void SMURF::displayPackets(void)
 {
     for (auto packet : _packets) {
         std::cout << &packet << std::endl;
     }
 }
 
-void DeauthFrames::analysePackets(Packet packet)
+void SMURF::analysePackets(Packet packet)
 {
-    if (packet.getRSTflag() == 1 && packet.getSYNflag() == 0 && packet.getACKflag() == 0 && packet.getFINflag() == 0) {
+    if (packet.getProtocol() == "8" ) {
         addPacket(packet);
     } else
         return;
     return;
 }
 
-std::string DeauthFrames::getName(void) const
+std::string SMURF::getName(void) const
 {
-    return std::string("DeauthFrames");
+    return std::string("SMURF");
 }
+
+

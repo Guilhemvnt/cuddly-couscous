@@ -15,15 +15,32 @@ IAttacks* array[] = {
     new TTL(),
     new THA(),
     new TCH(),
-    new DeauthFrames(),   
+    new DeauthFrames(),
+    new SMURF(),
 };
 
 
 void signalHandler(int signum) {
     if (signum == SIGINT) {
-        //std::cout << "Capture terminated by user (Ctrl+C)." << std::endl;
         shouldExit = true;
     }
+}
+
+// Function to get subnet mask for a given device
+std::string getSubnetMask(const char* dev) {
+    bpf_u_int32 net, mask;
+    char errbuf[PCAP_ERRBUF_SIZE];
+
+    // Get network and mask for the specified device
+    if (pcap_lookupnet(dev, &net, &mask, errbuf) == -1) {
+        
+        return "";
+    }
+
+    // Convert mask to string format
+    struct in_addr addr;
+    addr.s_addr = mask;
+    return std::string(inet_ntoa(addr));
 }
 
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
@@ -51,6 +68,10 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
 
         logLine << "TTL: " << sniffer.getTTL(ipHeader) << " ";
         packet.setTTL(sniffer.getTTL(ipHeader));
+
+        std::string subnetMask = getSubnetMask(sniffer.getNetworkInterface().c_str());
+        logLine << "Subnet Mask: " << subnetMask << " ";
+        packet.setSubNetMask(subnetMask);
 
         if (ipHeader->ip_p == IPPROTO_ICMP) {
             struct icmphdr *icmpHeader = (struct icmphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
@@ -118,3 +139,20 @@ int startingUp(char *device_name)
     ncursesGUI.close();
     pcap_close(handle);
 }
+
+
+// if (ipHeader->ip_p == IPPROTO_ICMP) {
+//     struct icmphdr *icmpHeader = (struct icmphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
+//     logLine << "ICMP Type: " << sniffer.getIcmpType(icmpHeader) << " ";
+//     packet.setProtocol(sniffer.getIcmpType(icmpHeader));
+
+//     // Check if it's an ICMP Echo Request (ping)
+//     if (sniffer.getIcmpType(icmpHeader) == ICMP_ECHO) {
+//         // Check if the destination IP is a broadcast address
+//         if (sniffer.isBroadcastIP(sniffer.getIp( , 1))) {
+//             // Potential Smurf attack detected
+//             logLine << "Potential Smurf Attack detected!";
+//             // Add additional actions or logging as needed
+//         }
+//     }
+// }

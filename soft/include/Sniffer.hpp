@@ -25,6 +25,7 @@
         private:
         protected:
             std::vector<std::string> devices;
+            std::string _networkInterface;
         public:
             Sniffer();
             ~Sniffer();
@@ -43,6 +44,9 @@
             int getSYNflag(struct tcphdr *tcpHeader) const;
             int getACKflag(struct tcphdr *tcpHeader) const;
             int getFINflag(struct tcphdr *tcpHeader) const;
+            
+            std::string getNetworkInterface() const;
+            void setNetworkInterface(std::string networkInterface);
 
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;
