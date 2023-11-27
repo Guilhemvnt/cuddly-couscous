@@ -22,6 +22,7 @@
             void drawBlocks(std::vector<Block> &);
             void drawContent(Block);
             FactoryBlock factoryBlock = FactoryBlock();
+            std::vector<std::string> displayOrder = {"Type:", "Victim:", "From", "NB of packets"};
         public:
             NcursesGUI();
             ~NcursesGUI();

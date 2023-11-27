@@ -10,5 +10,6 @@ fi
 source_ip="$1"
 destination_ip="$2"
 
-# Utiliser hping3 avec les adresses IP spécifiées
-sudo hping3 -1 --flood -a "192.168.1.12" "$destination_ip"
+# Limiter le nombre de paquets à 500 et arrêter après une seconde
+packet_count=500
+timeout 1 hping3 -1 --flood -c "$packet_count" -a "$source_ip" "$destination_ip"

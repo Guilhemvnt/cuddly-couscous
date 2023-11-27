@@ -41,7 +41,7 @@ void LAND::displayPackets(void)
 void LAND::analysePackets(Packet packet)
 {
     if (packet.getSrcIp() != "<>" && packet.getDstIp() != "<>")
-        if (packet.getDstIp() == packet.getSrcIp() && packet.getDstPortTCP() == packet.getSrcPortTCP()) {
+        if (packet.getDstIp() == packet.getSrcIp()) {
             addPacket(packet);
         } else {
             return;

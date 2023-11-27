@@ -8,13 +8,12 @@
 
 volatile bool shouldExit = false;
 Sniffer sniffer;
-PacketParser parser;
 NcursesGUI ncursesGUI;
 IAttacks* array[] = {
     new LAND(),
     new TTL(),
     new THA(),
-    new TCH(),
+    new DecoyScanningAttempts(),
     new DeauthFrames(),
     new SMURF(),
 };
@@ -34,7 +33,7 @@ std::string getSubnetMask(const char* dev) {
     // Get network and mask for the specified device
     if (pcap_lookupnet(dev, &net, &mask, errbuf) == -1) {
         
-        return "";
+        return "<>";
     }
 
     // Convert mask to string format
@@ -109,7 +108,6 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     for (auto atk : array) {
         atk->analysePackets(packet);
     }
-    parser.parsePacket(logLine.str());
     outputFile.close();
 }
 
@@ -139,20 +137,3 @@ int startingUp(char *device_name)
     ncursesGUI.close();
     pcap_close(handle);
 }
-
-
-// if (ipHeader->ip_p == IPPROTO_ICMP) {
-//     struct icmphdr *icmpHeader = (struct icmphdr *)(packetData + sizeof(struct ethhdr) + ipHeader->ip_hl * 4);
-//     logLine << "ICMP Type: " << sniffer.getIcmpType(icmpHeader) << " ";
-//     packet.setProtocol(sniffer.getIcmpType(icmpHeader));
-
-//     // Check if it's an ICMP Echo Request (ping)
-//     if (sniffer.getIcmpType(icmpHeader) == ICMP_ECHO) {
-//         // Check if the destination IP is a broadcast address
-//         if (sniffer.isBroadcastIP(sniffer.getIp( , 1))) {
-//             // Potential Smurf attack detected
-//             logLine << "Potential Smurf Attack detected!";
-//             // Add additional actions or logging as needed
-//         }
-//     }
-// }

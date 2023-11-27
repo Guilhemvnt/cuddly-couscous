@@ -24,6 +24,7 @@
     #include "TTL.hpp"
     #include "SMURF.hpp"
     #include "NcursesGUI.hpp"
+    #include "DecoyScanningAttempts.hpp"
 
     int startingUp(char *device_name);
 

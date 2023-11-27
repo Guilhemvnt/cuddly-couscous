@@ -1,27 +1,28 @@
 #Pentesting Network
 
-## Dauth Frames
-### Install mdk4
-- `sudo apt-get install mdk4`
+##API cuddly-couscous
+   #Packet Parser
+   - class PacketPaser is usefull to add packets to a map and retrive them from the sniffer
 
-### Setup an interface in monitor mode
-- `sudo airmon-ng start <interface>`
-- If an error occurs, kill the process: `sudo airmon-ng check kill`
-- `iwconfig` should show a new interface: `<interface>mon`
-- The attack will be done on this interface
+## DauthFrames
+- use ./rst_packet
 
-### Execute Dauth Attack
-- `sudo mdk4 <interface> d -w <file> -c <channel>`
-  - `file`: WhiteList MAC address
-  - `channel`: Channel of the AP (remove `-c <channel>` for an attack on all channels)
 
 ## Crafting Packet
 - Use `g++ -o rst_packet rst_packet.cpp <ipSrc> <ipDst>` (use valid IP addresses for `ipSrc` and `ipDst`)
 - Check if reset packets are detected by the sniffer (RST Flag: ...)
 
 ## SMURF Attack
-- `ping -b <broadcast ip> -c <number of packets> <ip to ping>`
-- Or just `ping <ip>`
+- use smurfAtk.sh
+
+## LAND Attack
+- user LANDAtk.sh
+
+## TTL
+- Check if an abnormal number of packets have a low Time to Live; it may indicate that an attack is ongoing in your network. This is often used by attackers to avoid firewall detection. 
+
+## TCP abnormalites
+- When any attacks are try it will often trigger this attack (ex with LAND and SMURF) indeed the bash scipts didn't take care of TCP flags.
 
 # IP Address
 ## 224.0.0.251

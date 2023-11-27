@@ -40,7 +40,7 @@ void NcursesGUI::init() {
     for (auto block : factoryBlock.createRowsBlock("small", std::vector<int>{25 + windowPadding, 5}, 3))
         arrayBlocks.push_back(block);
 
-    for (auto block : factoryBlock.createRowsBlock("small", std::vector<int>{25 + windowPadding, 10}, 3))
+    for (auto block : factoryBlock.createRowsBlock("small", std::vector<int>{25 + windowPadding, 11}, 3))
         arrayBlocks.push_back(block);
 
     for (int i = 1; i < 7; i++) {
@@ -167,19 +167,25 @@ void NcursesGUI::drawContent(Block block)
     int contentX = x + 1;
     int contentY = y + 1;
 
+    int i = 0;
+    //attacks blocks
     std::map<std::string, std::string> content = block.getContent();
-    std::vector<std::string> displayOrder = {"Type:", "Victim:", "From", "NB of packets"};
 
     for (const auto &key : displayOrder) {
         if (content.find(key) == content.end())
             continue;
         auto value = content[key];
-        
+
         mvprintw(contentY, contentX, "%s", key.c_str());
+
+        if (std::atoi(value.c_str()) > 100 && key == "NB of packets")
+            attron(COLOR_PAIR(3));
         mvprintw(contentY, contentX + key.size() + 1, "%s", value.c_str());
+        attron(COLOR_PAIR(1));
         contentY++;
     }
-    int i = 0;
+
+    //device block
     for (const auto& entry : arrayBlocks[0].getContent()) {
         mvprintw(arrayBlocks[0].getPos()[1] + i + 1, arrayBlocks[0].getPos()[0] + 1, "%s", entry.second.c_str());
         i ++;
