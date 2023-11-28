@@ -117,9 +117,7 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
     }
     writeLogs(logLine);
     attackHandler(packet);
-
 }
-
 
 int startingUp(char *device_name)
 {
@@ -147,5 +145,4 @@ int startingUp(char *device_name)
     }
     ncursesGUI.close();
     pcap_close(handle);
-
 }

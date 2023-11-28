@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# made for Ubuntu
 # Update package manager
 sudo apt update
 
@@ -16,5 +16,7 @@ sudo apt install libpcap-dev
 #comment and adjust the following lines if necessary
 sudo apt install libstdc++-dev
 sudo apt install libc6-dev
+
+sudo apt-get install libghc-criterion-dev
 
 echo "Installation complete."
