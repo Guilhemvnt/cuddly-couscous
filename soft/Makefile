@@ -27,6 +27,7 @@ fclean: clean
 	@rm -f $(TARGET)
 	@rm -rf *.gcda *.gcno
 	@rm -rf vgcore*
+	@rm -f logs/*.txt
 	@echo "[OK]:	removed objects."
 
 re: fclean all

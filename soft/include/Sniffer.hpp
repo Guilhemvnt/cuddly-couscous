@@ -26,6 +26,7 @@
         protected:
             std::vector<std::string> devices;
             std::string _networkInterface;
+            std::string logs_name;
         public:
             Sniffer();
             ~Sniffer();
@@ -50,6 +51,9 @@
 
             void setDevice(std::string device);
             std::vector<std::string> getDevices() const;
+
+            void setLogsName(std::string logs_name);
+            std::string getLogsName() const;
             void displayDevices();
     };
 #endif /* !PACKETHANDLER_HPP_ */

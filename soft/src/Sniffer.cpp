@@ -18,10 +18,9 @@ std::string Sniffer::getTimestamp() const {
     std::time_t timestamp = std::time(nullptr);
     char timeStr[100];
 
-    if (strftime(timeStr, 100, "%Y-%m-%d/%H:%M:%S", std::localtime(&timestamp)) > 0) {
+    if (strftime(timeStr, 100, "%Y-%m-%d-%H:%M:%S", std::localtime(&timestamp)) > 0) {
         return timeStr;
     } else {
-        // Handle strftime failure gracefully, e.g., return an empty string.
         return "";
     }
 }
@@ -129,4 +128,14 @@ std::string Sniffer::getNetworkInterface() const
 void Sniffer::setNetworkInterface(std::string networkInterface)
 {
     _networkInterface = networkInterface;
+}
+
+void Sniffer::setLogsName(std::string logs_name)
+{
+    this->logs_name = logs_name;
+}
+
+std::string Sniffer::getLogsName() const
+{
+    return this->logs_name;
 }

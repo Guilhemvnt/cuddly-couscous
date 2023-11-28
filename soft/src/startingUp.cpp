@@ -53,8 +53,8 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
 
     struct ethhdr *ethHeader = (struct ethhdr *)packetData;
     logLine << "Source MAC: " << sniffer.getMac(ethHeader, 0) << " ";
-    packet.setSrcMAC(sniffer.getMac(ethHeader, 0));
     logLine << "Destination MAC: " << sniffer.getMac(ethHeader, 1) << " ";
+    packet.setSrcMAC(sniffer.getMac(ethHeader, 0));
     sniffer.setDevice(sniffer.getMac(ethHeader, 0));
     packet.setDstMAC(sniffer.getMac(ethHeader, 1));
 
@@ -98,10 +98,10 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
             packet.setDstPortUDP(sniffer.getPortUDP(udpHeader, 1));
         }
     }
-    std::ofstream outputFile("logs/packet_logs.txt", std::ios::app | std::ios::out);
+    std::ofstream outputFile("logs/" + sniffer.getLogsName(), std::ios::app | std::ios::out);
     if (!outputFile.is_open()) {
         std::cerr << "Failed to open the output file." << std::endl;
-        return;
+        shouldExit = true;
     }
 
     outputFile << std::endl << logLine.str();
@@ -115,10 +115,11 @@ int startingUp(char *device_name)
 {
     char errbuf[PCAP_ERRBUF_SIZE];
     std::vector<std::string> devices;
-
     pcap_t *handle = pcap_open_live(device_name, BUFSIZ, 1, 1000, errbuf);
 
     ncursesGUI.init();
+
+    sniffer.setLogsName(sniffer.getTimestamp() + ".txt");
     signal(SIGINT, signalHandler);
     
     if (handle == nullptr) {
@@ -136,4 +137,5 @@ int startingUp(char *device_name)
     }
     ncursesGUI.close();
     pcap_close(handle);
+
 }
