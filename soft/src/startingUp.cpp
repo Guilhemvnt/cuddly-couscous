@@ -42,6 +42,23 @@ std::string getSubnetMask(const char* dev) {
     return std::string(inet_ntoa(addr));
 }
 
+void writeLogs(std::ostringstream &logLine)
+{
+    std::ofstream outputFile("logs/" + sniffer.getLogsName(), std::ios::app | std::ios::out);
+    if (!outputFile.is_open()) {
+        std::cerr << "Failed to open the output file." << std::endl;
+        shouldExit = true;
+    }
+    outputFile << std::endl << logLine.str();
+    outputFile.close();
+}
+
+void attackHandler(Packet &packet) {
+    for (auto atk : array) {
+        atk->analysePackets(packet);
+    }
+}
+
 void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *packetData) {
     std::ostringstream logLine;
     Packet packet;
@@ -98,18 +115,11 @@ void packetHandler(u_char *, const struct pcap_pkthdr *pkthdr, const u_char *pac
             packet.setDstPortUDP(sniffer.getPortUDP(udpHeader, 1));
         }
     }
-    std::ofstream outputFile("logs/" + sniffer.getLogsName(), std::ios::app | std::ios::out);
-    if (!outputFile.is_open()) {
-        std::cerr << "Failed to open the output file." << std::endl;
-        shouldExit = true;
-    }
+    writeLogs(logLine);
+    attackHandler(packet);
 
-    outputFile << std::endl << logLine.str();
-    for (auto atk : array) {
-        atk->analysePackets(packet);
-    }
-    outputFile.close();
 }
+
 
 int startingUp(char *device_name)
 {
