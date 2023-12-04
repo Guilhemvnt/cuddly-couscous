@@ -1,1 +1,0 @@
-ip -o addr show | awk '/inet/ {print $2, $3, $4}' #get info about the network card
