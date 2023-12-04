@@ -6,7 +6,7 @@ TARGET       = cuddly-couscous
 SRC          = $(wildcard src/*.cpp)
 CXXFLAGS += -Wall -Wextra -Wno-return-type -I./include -O2 -g -std=c++17
 LDFLAGS  += -lncurses
-LDLIBS    += -lpcap
+LDLIBS    += -lpcap -lcriterion
 
 OBJECTS      := $(SRC:%.cpp=%.o)
 

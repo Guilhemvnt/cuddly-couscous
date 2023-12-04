@@ -1,6 +1,5 @@
 #Pentesting Network
 
-
 ## Understand spoofing ip
 - IP spoofing is a technique in which an attacker sends IP packets from a false (or "spoofed") source address in order to deceive the recipient about the origin of the message. This can be done for hiding the true source of an attack, bypassing access controls, or launching a denial-of-service (DoS) attack.
 
