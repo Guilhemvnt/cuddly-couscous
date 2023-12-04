@@ -30,7 +30,6 @@ int main(int argc, char **argv) {
             return 0;
         }
         if (strcmp(argv[i], "-t") == 0) {
-            std::cout << "test" << std::endl;
             if (criterion_handle_args(argc, argv, true))
                 result = !criterion_run_all_tests(tests);
 
