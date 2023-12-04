@@ -27,5 +27,6 @@
     #include "DecoyScanningAttempts.hpp"
 
     int startingUp(char *device_name);
+    std::string getSubnetMask(const char* dev);
 
 #endif /* !STARTINGUP_HPP_ */

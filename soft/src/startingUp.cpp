@@ -30,27 +30,25 @@ std::string getSubnetMask(const char* dev) {
     bpf_u_int32 net, mask;
     char errbuf[PCAP_ERRBUF_SIZE];
 
-    // Get network and mask for the specified device
     if (pcap_lookupnet(dev, &net, &mask, errbuf) == -1) {
-        
         return "<>";
     }
-
-    // Convert mask to string format
     struct in_addr addr;
     addr.s_addr = mask;
     return std::string(inet_ntoa(addr));
 }
 
-void writeLogs(std::ostringstream &logLine)
+bool writeLogs(std::ostringstream &logLine)
 {
     std::ofstream outputFile("logs/" + sniffer.getLogsName(), std::ios::app | std::ios::out);
     if (!outputFile.is_open()) {
         std::cerr << "Failed to open the output file." << std::endl;
         shouldExit = true;
+        return false;
     }
     outputFile << std::endl << logLine.str();
     outputFile.close();
+    return true;
 }
 
 void attackHandler(Packet &packet) {
@@ -131,7 +129,7 @@ int startingUp(char *device_name)
     signal(SIGINT, signalHandler);
     
     if (handle == nullptr) {
-        return 0;
+        return 84;
     }
 
     while (!shouldExit) {
@@ -145,4 +143,5 @@ int startingUp(char *device_name)
     }
     ncursesGUI.close();
     pcap_close(handle);
+    return 0;
 }

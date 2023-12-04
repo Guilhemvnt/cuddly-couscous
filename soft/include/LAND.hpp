@@ -10,7 +10,7 @@
 
     #include "IAttacks.hpp"
 
-    class LAND : public virtual IAttacks{
+    class LAND : public virtual IAttacks {
         protected:
             std::vector<Packet> _packets;
             std::map<std::string, std::vector<Packet>> _map;
