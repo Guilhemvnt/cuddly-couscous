@@ -1,6 +1,4 @@
 # cuddly-couscous IDS network
-
-## Project Overview
 - Student project made for a better understanding of network cyber-security
 
 ## Atks folder
