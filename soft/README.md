@@ -42,7 +42,7 @@ The IP address 224.0.0.251 is a multicast IP address reserved for the use of the
 In other words, when a device on the local network is searching for other devices or services, it can broadcast multicast queries to the IP address 224.0.0.251 to discover the services available on the network without requiring a traditional DNS infrastructure. This is commonly used in home and local networks to facilitate the automatic discovery of devices and services without manual configuration.
 
 ## Reserved IP Addresses
-Yes, there are several ranges of IP addresses reserved for specific purposes, such as particular services, specific communication protocols, or reserved uses for specific purposes. Here are some examples:
+There are several ranges of IP addresses reserved for specific purposes, such as particular services, specific communication protocols, or reserved uses for specific purposes. Here are some examples:
 
 1. **Loopback IP Address:**
    - `127.0.0.1` is the standard loopback IP address, also known as "localhost." It is used for network testing on the local machine.
