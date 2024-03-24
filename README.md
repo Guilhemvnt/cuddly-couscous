@@ -14,5 +14,5 @@
 
 ### Debug 
 - use 'sudo ./cuddly-couscous -h for help
-- use 'sudo ./cuddly-couscous -t -l' to launch unistest and check if all is good to use the software
+- use 'sudo ./cuddly-couscous -t -l' to launch unitest and check if all is good to use the software
 
