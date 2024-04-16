@@ -4,7 +4,7 @@
 ## Atks folder
 - contain pentest tools in order to test the soft part
 ## Soft folder
-- contain the project code 
+- contain the project code (read soft/README.md)
 ### Usage
 - install the third-part library with 'Install.sh'
 - get your network interface with 'GetNetworkInterface'
