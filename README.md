@@ -2,7 +2,7 @@
 - Student project made for a better understanding of network cyber-security
 
 ## Atks folder
-- contain pentest tools in order to test the soft part (read the Atks/README.md)
+- contain pentest tools in order to test the soft part
 ## Soft folder
 - contain the project code 
 ### Usage
