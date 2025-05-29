@@ -1,5 +1,6 @@
 # cuddly-couscous IDS network
 - Student project made for a better understanding of network cyber-security
+![image](https://github.com/user-attachments/assets/7f94f2df-48cb-4eac-86ef-d1d6e03ae18d)
 
 ## Atks folder
 - contain pentest tools in order to test the soft part
